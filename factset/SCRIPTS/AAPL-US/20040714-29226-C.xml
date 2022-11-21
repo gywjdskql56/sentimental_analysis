@@ -1,0 +1,1092 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="29226" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q3 2004 Earnings Call</title>
+    <date>2004-07-14</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Nancy Paxton, Senior Director, Investor Relations and Corporate Finance</participant>
+      <participant id="2" type="corprep">Peter Oppenheimer, CFO</participant>
+      <participant id="3">Richard Gardner</participant>
+      <participant id="4">Peter Oppenheimer</participant>
+      <participant id="5">Tim Cook</participant>
+      <participant id="6">Nancy Paxton</participant>
+      <participant id="7">Ben Reitzes</participant>
+      <participant id="8">Steve Milunovich</participant>
+      <participant id="9">Michelle Gutierrez</participant>
+      <participant id="10">Charles Wolf</participant>
+      <participant id="11">Joel Wagonfeld</participant>
+      <participant id="12">Bill Fearnley</participant>
+      <participant id="13">Kevin Hunt</participant>
+      <participant id="14">Keith Bachman</participant>
+      <participant id="15">g</participant>
+      <participant id="16">Rob Cihra</participant>
+      <participant id="17">Howard Gleicher</participant>
+      <participant id="18">Gary Wipfler</participant>
+      <participant id="19">Bill Hand</participant>
+      <participant id="20">Shannon Cross</participant>
+      <participant id="21">John McPeake</participant>
+      <participant id="22">Bill Shope</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Please stand by.  We're about to begin.  Good day and welcome to this Apple Computer conference call to discuss third quarter financial results.  Today's call is being recorded.  At this time, for opening remarks and introductions, I would like to turn the call over to Nancy Paxton, Senior Director, Investor Relations and Corporate Finance.  Please go ahead, ma'am.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you.  Good afternoon, and thanks to everyone for joining us.  Speaking today is Apple's CFO, Peter Oppenheimer, and he'll be joined by EVP of Worldwide Sales and Operations, Tim Cook, and VP and Corporate Treasurer, Gary Wipfler for the Q&amp;A session with the analysts.  Please note that some of the information you'll hear during this call consists of forward looking statements regarding revenue, gross margin, operating expenses, restructuring, capitalized research and development expense, other income and expense, taxes, earnings per share, Apple's retail initiative, Apple's next generation iMac and manufacturing issues associated with the PowerPC G5 microprocessor.  Actual results or trends could differ materially from our forecast.  For more information, please refer to pages 36 through 45 of Apple's latest form 10-Q for the quarter ended March 27th, 2004.</p>
+          <p>Please also note that any non-GAAP financial measures included in today's call should be viewed in addition to and not in lieu of Apple's GAAP results.  A reconciliation of any GAAP and non GAAP measures discussed will be posted on Apple's website at www.Apple.com/investor.  In connection with SEC rules on corporate disclosure, Apple is making this analyst call open to the media and general public by broadcasting the call live over the Internet, and with that I'd like to turn the call over to Peter Oppenheimer for introductory remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Nancy.  Thank you very much for joining us.</p>
+          <p>We are exceptionally pleased with the results of the June quarter, which exceeded our guidance.  Revenue of $2.014 billion was up 30% year over year and represented the highest Q3 revenue for Apple in eight years.  Net income was $61 million, or 16 cents per diluted share.  These GAAP results include an after tax restructuring charge of $6 million, or 1 cent per diluted share, primarily related to finalizing the closing of our Sacramento manufacturing operations.</p>
+          <p>Operating margin increased to 3.6% from .6% in the year ago quarter.  Excluding the restructuring charge, operating margin was 4.0%, demonstrating the leverage in Apple's financial model that can be achieved as revenue grows.</p>
+          <p>First, let me talk about our Mac based revenue, which consists of our Mac desktop and portable computers, the Mac OS 10 operating system software, our expanding line of consumer and professional applications software, such as iLife and Final Cut Pro, and the support, accessory and peripheral products that surround these and other products.</p>
+          <p>I am pleased to report that our Mac based revenue grew 19% during the quarter, accounting for 58% of the company's total revenue growth for the quarter.  We sold 876,000 Macs, which is the highest quarterly unit shipment in over 3 1/2 years, and represents a 14% increase from the year ago quarter, equivalent to IDC's unit growth forecast for the market as a whole.</p>
+          <p>Our portables accounted for 53% of total Macs sold during the quarter, a new record.  Both the iBook and the PowerBook set new quarterly records with sales of 240,000 and 220,000 units respectively.  Apple continues to be an industry leader in the move to notebooks.</p>
+          <p>We sold 416,000 desktops during the quarter, or 47% of total Macs shipped, consisting of 173,000 Power Macs, 60,000 flat panel iMacs and 183,000 eMacs.  Our Power Mac G5 unit shipments and associated revenue and profits were constrained in the June quarter by a manufacturing problem at IBM that caused significant delays in their delivery of G5 processors, thus the delay in the shipment of our high end dual 2.5 gigahertz Power Macs into July.</p>
+          <p>Unfortunately, IBM's manufacturing problems will impact our September quarter as well.  We expect to have shortages of our dual 1.8 gigahertz and dual 2.0 gigahertz models in July, though supply of these models should catch up in August.  And we expect to have shortages of our high end dual 2.5 gigahertz model throughout the quarter.</p>
+          <p>IBM's manufacturing problems have also impacted our next generation iMac.  We normally don't talk about unannounced products, but we feel you need to know about the current situation.  The new iMac is based on a G5 processor.  We could not secure the necessary supply of G5 processors to launch our new iMac on schedule, and as we indicated a few weeks ago, we now plan to announce and ship it in September.  We are extremely unhappy with these events.  We believe that IBM has placed enormous resources on improving the situation, and based on what they have told us, we expect the supply problems to be behind us by the beginning of Apple's fiscal Q1 '05.</p>
+          <p>Ending channel inventory of total iMac &#x2013; or total Mac units remained within our target range of 4 to 5 weeks, although we anticipate flat panel iMac inventory will be depleted in the next several weeks.</p>
+          <p>Now, let me discuss our music-based revenue, which consists of the iPod and the iPod mini portable digital music players and their accessories, and the iTunes on line music service.</p>
+          <p>Our music-based revenue grew 162%.  We had another phenomenal quarter for iPod sales, shipping a record 860,000 units, a 183% increase over last year.  Continued strong demand for the iPod, combined with improved supply of the iPod mini and 13,000 retail distribution points worldwide drove this growth.</p>
+          <p>According to May 2004 data, which is the latest available from NPD Tech World, the iPod has continued to gain market share and remains the number one selling MP3 player, counting all hard drive and flash based memory players by a wide margin.</p>
+          <p>The iTunes music store continues to be the leading on line music service, with more than a 70% share of legal downloads based on the latest information from Nielsen Sound Scan. This week, the iTunes music store crossed the unprecedented milestone of a hundred million legally downloaded songs and our iTunes music store in the U.K., France and Germany has become Europe's top on line music store.</p>
+          <p>Moving on to distribution, the Apple retail stores had another outstanding and profitable quarter.  We opened two stores during the quarter, bringing the quarter end total to 80.  Apple retail store revenue was 270 million.  With an average of 79 stores open during the quarter, average quarterly revenue per store was 3.4 million, up from 2.6 million in the year ago quarter, a 31% increase.</p>
+          <p>The retail stores also contributed 7 million in segment profit during the quarter, and 48 million in additional manufacturing margin.</p>
+          <p>Traffic was very strong during the quarter, with 5.8 million people visiting our retail stores, translating into 5.6 thousand visitors per store per week.  This compares to 4.3 thousand visitors per store per week in the year ago quarter.</p>
+          <p>We are looking forward to opening two more international stores before the end of the calendar year, one in Osaka, Japan and the other on Regent Street in London.  We now expect to exit the calendar year with a hundred stores.</p>
+          <p>Results from our U.S. education channel were positive.  Overall, CPU units were up 4% year over year, which compares favorably to IDC's forecast of a 14% unit decline for the market.  Revenue growth was even stronger, at 16%, over the year ago quarter and resulted in our highest U.S. education channel revenue in three years.</p>
+          <p>Higher education sales grew an impressive 40% year over year, the third consecutive quarter of 40% or better growth.</p>
+          <p>Our K to 12 business continues to be challenged by a weak funding environment.  However, we managed to grow K to 12 revenues by 3% year over year and continued to have success with one to one initiatives.</p>
+          <p>In terms of geographic performance, revenue in Europe was up 37% year over year, while revenue in the Americas &#x2013; excluding the retail segment &#x2013; was up 23%.  Combining the Americas segment results with U.S. sales from the retail segment yields a year over year increase of 31%.  Revenue in the Japan segment was up 2% year over year.</p>
+          <p>Gross margin was 27.8%, flat with the prior quarter, and consistent with guidance.</p>
+          <p>Excluding the pre-tax restructuring charge of 8 million operating expense was 479 million, 9 million higher than expected, primarily due to variable selling expenses associated with the higher than expected revenue and the accelerated launch of the European iTunes music store.</p>
+          <p>OI&amp;E was $13 million, 1 million better than guidance, primarily due to slightly higher than expected yields on our cash investments.  The tax rate for the quarter was 28%, as expected.  In terms of the balance sheet, cash was 4.966 billion, up 372 million sequentially.  The cash growth reflects continued strong asset management and contributions from operating income as well as proceeds from employee stock option exercises, which were approximately 190 million, excluding related tax benefits, during the quarter.</p>
+          <p>Total capital expenditures for the quarter were $38 million, including 20 million for our retail initiative.</p>
+          <p>We were very busy with product introductions and refreshes.  Recent product announcements include a new family of Power Mac G5's featuring an all dual processor lineup, AirPort Express, the world's first 802.11(g) mobile base station featuring AirTunes software, and a new family of wide screen displays including the 30-inch Apple HD display.</p>
+          <p>Additionally, we've announced plans to introduce the next generation iMac in September.</p>
+          <p>We're incredibly proud of the innovation and ground breaking new solutions generated by our R&amp;D product pipeline, and there are more to come.</p>
+          <p>Looking ahead to the September quarter, I'd like to review the outlook, which includes the types of forward looking information that Nancy referred to at the beginning of the call.</p>
+          <p>For the September quarter, we are targeting revenue of about 2.1 billion, and GAAP diluted earnings per share of about 16 to 17 cents, which includes approximately 5 million, or 1 cent per diluted share, of expected restructuring related to vacating some European sales office space.</p>
+          <p>We expect gross margin to decline sequentially to about 27.0 to 27.25%, due to the constrained supply of microprocessors, airfreight for the new iMac, and a higher mix of iPods.</p>
+          <p>I've discussed IBM's problems and how they're likely to impact the quarter, and based on their input, we believe we have appropriately taken into consideration the risk factors associated with the G5 processor in developing our guidance for Q4.  However, we acknowledge that actual results could vary based on unforeseen problems.</p>
+          <p>We expect OpEx to be about 490 million, including the 5 million restructuring charge.  The projected OpEx does not include 5 million of capitalized costs related to the development of Mac OS 10 Tiger, which we publicly demonstrated at our developers' conference last month.  We expect OI&amp;E to be about 15 million and we expect the tax rate to be 28%.</p>
+          <p>In conclusion, we are very pleased with our year to date results and based on Q4 guidance we expect to complete fiscal 2004 with over 8 billion of revenue, representing a 29% year over year growth.</p>
+          <p>With that, I'd like to open the call to questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you, sir.  Today's question and answer session will be conducted electronically.  If you'd like to ask a question, please signal by pressing the star key, followed by the digit 1, on your touch tone telephone.  If you are using a speakerphone, please make sure that your mute function is turned off, to allow our equipment to read your signal.  We will come to you in the order that you signal, and we'll take as many questions as time permits.  Again, that is star 1 to signal with a question, and we'll pause for just a moment to assemble our roster.  We'll take our first question from Richard Gardner with Smith Barney.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay.  Thank you.  Peter, it was interesting that the CPU strength in the quarter was largely from the Pro line rather than the K through 12 or consumer lines.  You had a really nice quarter with PowerBook.  Could you comment on why you think that that might be the case, aside from the iMac channel inventory drawdown and maybe give a comment on demand in the consumer and K through 12 segments, given some of the controversy around those segments here recently?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.  Rich, I will make a couple comments on the portables and then let Tim discuss the education environment.  We had a very strong portable quarter.  The PowerBooks were up 37% year over year, but the iBooks were also up 26% year over year, and I would just point out that we set a record, a company record, in terms of shipments for both the PowerBook and the iBook.  Tim, do you want to talk about the...</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure.  Rich, in the education space, we've now had several quarters in a row of significant growth in higher education, and frankly, this is a result of our strong product portfolio, including the Power Mac and the PowerBook and the &#x2013; and the iBook, or the whole portable family.  And as you probably know now, if you look through our fiscal first half &#x2013; and that's the latest figures that we have from IDC &#x2013; our market share in education has gone up over 2% from 12.4 to 14.8, and so we feel extremely good about those results.  It's an indication to us that our coverage model is working, that our product portfolio is right, and that &#x2013; you know, that we have the team focused on the appropriate things.  From a tax revenue point of view, K 12 is still difficult.  We did see some positive signs toward the end of the fiscal year which largely occurred in June for a number of these states that indicates some turn, and that produced the 3% revenue growth that Peter talked about in his opening remarks.  It's difficult to predict when tax revenues increase.  You guys could predict that as good as we can.  However, frankly we are focused on growing in this environment, regardless of whether the market is growing or shrinking, and we're very proud of our results there thus far.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>And Rich, I would add on the consumer side, just using our growth in retail as a proxy, Ron had a fantastic quarter at 270 million, which was up 86% year over year.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Could I follow up quickly?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Was there anything in the quarter that impacted revenued iPod shipments besides just the one inch drive constraints that you've been experiencing here lately?  For example, you know, any &#x2013; any recall issues or anything like that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>There &#x2013; there's been no recall issues, no quality issues, Rich, or anything like that.  Obviously, the mini demand far exceeds the supply.  Frankly speaking, the demand is staggering in the U.S.  Most of the resellers and Apple retail locations were reporting selling out of the deliveries that we sent within hours or a few days of receipt, and, you know, the &#x2013; internationally, the order stream was opened up a week ago and the order stream that we've seen is unprecedented.  And so the demand for the mini is extremely, extremely strong.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay.  Thank you, Tim.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Rich.  Can we have the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take our next question from Ben Reitzes with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah.  Good afternoon.  Thank you.  Could you just elaborate a little more on some of the issues going on with IBM, and what &#x2013; I think you said that you think that in speaking with them, you have confidence that in the first fiscal quarter, you'll see the products ship and you feel capacity will be where &#x2013; or will be where it needs to be or &#x2013; excuse me, supply.  Could you just talk about what gave you confidence there and what could go wrong or what &#x2013; what &#x2013; just a little more color, so that we know that the &#x2013; that that's going to be straightened out?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah.  Hi, Ben, it's Tim.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Hi, Tim.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Let me give you a little bit of the background here.  Much of the issue at IBM is very consistent with what's happening across the broader industry, including some of the issues at Intel that have been well reported, and this is basically the move from 130 to 90 nanometer technology.  It's been much more difficult than most people estimated, and frankly, from &#x2013; for us, what that resulted in was a mass loss of our wafer supply and lower than anticipated yields.  Now, from the discussions that we've had with them, which have been numerous, I very much believe that they've placed enormous resource, engineering wise and executive wise on improving the situation, and given that, I believe that we can hit the numbers that Peter has talked about in the guidance.  Obviously, we also independently assessed their plans and probed them, and &#x2013; and believe the numbers that they have passed us.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Any plans to procure an alternative supplier into, you know, the future at some point?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You know, it's not commercially feasible or reasonable to think about a...</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Not near term.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>&#x2013; another entire company building the G5, if that's what you mean.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>No, not near term.  Okay.  And then with regard to margin hit, is there anything you can quantify with regard to some of the issues as to what kind of hits are &#x2013; Peter, what's going against margins in the quarter that could potentially get better into the next with &#x2013; you know, I understand if you don't want to give guidance going into...</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Right.  Ben, I'm not going to get into providing guidance for Q1, but we've provided guidance for Q4 that we would see our gross margins at about 27.0 to 27.25.  Had we not had the microprocessor constraints or the premium airfreight on the flat panel, our gross margin would have been much closer to 27 1/2%.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay.  Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Ben.  Could we have the next please, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Steve Milunovich with Merrill Lynch.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thanks.  To continue on the PowerPC issue, there's been some suggestion on the web that you have a heating issue with the iMac as well.  Are you saying that that's not at all the problem; it's purely availability of microprocessors?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Steve, the processor is the most critical factor.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay.  And are you basically using the same processor that IBM's now going to be using in its new Unix line, so are you in effect going to be competing with IBM's internal needs and is that incorporated into your forecast?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We believe that based on what IBM has told us, and our own independent assessment of their plans, that we can achieve our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay.  On the &#x2013; on the iPod side, you did have some mini availability.  I don't know if you're willing to talk about what the mix of iPods is at this point.  Also wondering if you could just reiterate the timing of catching up to demand with the mini, what the availability of HP's product is likely to be, and if you'd be willing to speculate that you'll break a million units in this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Let me start with &#x2013; with that, and then Tim can add to that.  And I will &#x2013; I will take your last question and let Tim discuss mini supply and HP.  We're not going to provide specific guidance on our iPod shipments, but we do anticipate them being up sequentially.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Steve, on supply on the mini, as I had talked about in the last call last quarter, we still expect the supply this quarter to be significantly higher than it was in our last Q3, or last quarter, and, in fact, our view today is even better than it was then, in terms of the amount that we can increase it.  And so I'm feeling good about the supply.  However, the demand, as I &#x2013; as I had talked about with Ben earlier, the demand in the U.S. is staggering, and on top of that, the orders internationally as we've opened this thing up for our launch later this month, those orders are unprecedented.  And so given that, I &#x2013; it's very difficult to predict when supply and demand would balance.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>So it sounds like the good news is, you got more supply, but demand keeps moving ahead of your previous plan, so you're not willing to suggest that you will necessarily catch up in the September quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>That's correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay.  And finally, at least relative to my expectations, software revenues were above what I was looking for, peripherals were below.  Any particular strength or weakness in those areas you can allude to?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah.  Steve, the decline that you're seeing in the peripherals was largely related to our transition of our display line that we did right at the end of our quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Steve.  Could we have the next question, please</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Michelle Gutierrez with Schwab SoundView.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Hi.  Congratulations on the quarter.  I want to ask about iTunes and an update, given you've announced the hundred millionth song here and the profitability in that business model and along with the &#x2013; the new pricing that's &#x2013; that's available in the European markets.  How &#x2013; if there's an update there, and a change in terms of profitability in that business.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Thanks for the good wishes on the quarter, Michelle.  The iTunes music store in our June quarter made a small profit, and that includes both our sales in the U.S. and Europe.  Going forward, our profitability will vary on pricing and volume and what we might do to grow the business.  And we were just thrilled with the sales this quarter crossing not only a hundred million songs here in the U.S., but our great start in Europe where we are the &#x2013; by far &#x2013; leading music store in the U.K., France and Germany.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.  Great.  And then just transitioning that into the iPod international launch later this month, in July.  Given the unprecedented demand in the U.S., are you going to be able to manage that launch or will that &#x2013; you know, you won't be able to preannounce a push out but how do you feel about supplying that launch?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We will conduct the launch on July 24th, and we have set aside some amount of the July supply in order to ship internationally, but given the orders that I've seen, it's clear that it will not come close to satisfying the number of people that want them.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.  And then just shifting gears a little bit, the huge strength that you saw in the PowerBook, 40% growth quarter to quarter, that's typically not &#x2013; not typical seasonality.  And I didn't hear why, exactly, you saw that particular strength in PowerBook and in iBook, and whether you can &#x2013; you continue to see that going forward.  Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.  The &#x2013; you know, the world is going more mobile, and Apple is a leader in that.  We have a very competitive and feature rich line of iBooks and PowerBooks, which we have recently refreshed, and both &#x2013; both PowerBooks and iBooks are doing very well in education and our consumer and business markets as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Do you see that going forward as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We're not going to provide specific unit guidance, but, yes, we are very pleased with our portable line, how it's &#x2013; how it's doing and its prospects for the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Michelle.  Could we have the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Charles Wolf with Needham &amp; Company.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes.  I think Steve asked the question but it wasn't answered.  Is the HP launch of the HP pod still on target?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah.  Charlie, sorry, I &#x2013; I didn't answer that, and it wasn't because I was doing that intentionally.  HP will ship this summer as we had indicated in last quarter's call.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay.  Thank you.  I have a second question.  I don't know if you can answer it, but I was wondering if you could share with us possibly some of the shopping habits of the people who come to the iTunes music store, possibly the total number that have come.  You &#x2013; stuff like that, if you have that information and can share it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Charlie, we &#x2013; of course we have it, but for competitive reasons, we &#x2013; we don't want to do that.  I would just say that we couldn't be happier with the success that we're having in all of our markets with the music store.  Our traffic is up.  We're pleased with the sales, and we're just going to keep making our store and our iPods better and better.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Okay.  Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Charlie.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Joel Wagonfeld with First Albany Capital.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Thank you.  Nice quarter.  Had a question on products.  I was wondering if you could give any granularity in terms of when during September you expect to ship the iMac, whether Apple products will be in the Office Depot stores or just on line on their site, and also if you expect any cannibalization of the wide iPods once the minis do become fully available or is there sufficient demand for &#x2013; for the bigger capacity devices?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>On Office Depot, we have authorized Office Depot to sell on their on line store, and we've done that because of their emphasis in the small and medium business market.  We do not have any plan to extend that to their retail stores.  Or to put product into their retail stores.  On the mini cannibalization, frankly we don't know.  We've never been in a position where we have had significant amounts of mini and wide iPods in any location for any length of time, and so we don't know the answer to that.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And in terms of when in September?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We plan to announce and ship in September and we're not being more specific on the timing in September.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay.  Could I follow up?  Just in terms of the granularity on the margins, this quarter, which the gross margin was pretty strong, was that all due to better mix?  You made a couple comments, I think, on airfreight that I didn't quite catch.  If you could just repeat those for me.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.  Joel, the comments that I made regarding airfreight related to Q4.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>That's what I thought.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Right.  Our Q3 gross margin came in at 27.8% as we guided to.  In the third quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>And so despite the &#x2013; so that was all basically mix?  The Power Mac offsetting the iPod?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We saw a little bit more favorable commodity environment than we had &#x2013; had thought, which helped us offset the delay of the 2 1/2 gigahertz Power Mac in the third quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Got it.  Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Joel.  Could we have the next question, please</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Bill Fearnley with FTN Midwest Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes.  Good afternoon.  A couple of questions on the iMac.  Is the only issue the chips, or are there any other gating issues on other components or plastics for that product?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Bill, the processor is the most critical factor.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.  And on Japan, performance versus expectations given the economic environment and your new stores there, could you give additional color on what's happening in Japan?  Specifically?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, I will.  When you include the retail story that we have in Japan and the Japan geographic results, you'd see that our revenue year over year increased 8% in the quarter.  Now, compared to the previous quarter, we declined 17%, looking at the same comparable.  And so we did better on a sequential basis, but frankly, Japan is our weakest performing geo.  We're not happy.  We've made a number of changes.  We have a number of initiatives underway, and, you know, it's a very key market for us, and we must improve there.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Is Quark still holding you back there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Quark we thought would ship last quarter but did not, and now my understanding is they will ship in the early part of this one.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.  And one last follow up, if I could.  On airfreight expenses coming up, what exactly are you air freighting in the upcoming quarter?  What &#x2013; what products?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It, Bill, is primarily the new iMac.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Kevin Hunt with Thomas Weisel Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thank you.  A couple questions on your &#x2013; your ASP trends.  On the iMac, you had a pretty substantial drop in ASP.  Is that just because of the mix shift  towards eMac?  And then the same kind of question on the iPod.  I mean it looks like you had a 290 ASP which would that suggest you're selling mainly the low end of the wide and then the minis?  And then I had one other &#x2013; one other question on education.  You said 3% for the K through 12.  What was the total education if you put in the &#x2013; the higher ed as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay.  I'll &#x2013; let me start with your ASP questions.  So the iMac ASP declined to $967 in our third quarter from $1,049 in the year ago quarter.  That ASP decline related to our shipping far fewer flat panel iMacs in the quarter.  The iPod ASP decline you referred to is really primarily just a mix issue between the minis and the wide iPods.  And your education question, was that unit &#x2013; a unit question or revenue?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>I thought you said revenue you said was 3% for K through 12 if I wasn't mistaken and just wondered if you had the total education number.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yeah.  Kevin, the K 12 is 3% year over year, the higher ed is 40% year over year, and the total education for the U.S. is 16% up year over year.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.  Thanks</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>And I would just remind you that IDC's last forecast is that the total ed market is shrinking in the double digits.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Kevin.  Could we have the next question, please</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Keith Bachman with Banc of America Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Hi.  Thanks very much.  I had a couple.  First, the share count was higher, at least than I had forecasted.  Was that just because of the stock price or was there something else going on there?  Was there some issuance there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Gary, would you like to take that?</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="a">
+        <plist>
+          <p>Yeah.  Actually, most of that is the average share price going up.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  Okay.  And then on the AirPort Express, I know it's just recently out, but have you had any expectations or any kind of indications on how that will track?  And then is that in the "other" category, the new line item that you had, "other music products"?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, the AirPort Express is in the peripheral and other hardware category.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>But just to clarify, the AirPort Express did not ship in Q3, and therefore it is not in the Q3 results.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah.  No, I was just referring &#x2013; I think it just started shipping, right?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes.  We've now taken over 80,000 orders.  We just began to ship.  We're thrilled with the market reception of it.  And, you know, the &#x2013; it's gotten great, great reviews, and we're very happy that it's shipping.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Is that &#x2013; is that a &#x2013; is that a global ship, or is it U.S. ship?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The 80,000 units that I'm quoting is global.  The first units we're shipping to the U.S., but internationally we're shipping in the next few days as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  That was more my question, is it a U.S. based product?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, it's a worldwide product.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Great.  And then on the iPod for Hewlett Packard, is there any &#x2013; do you have any channel restrictions on that, to try to manage the channel conflict, either by geo or by any other supply sources?  Is there any kind of channel restrictions associated with HP?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No, HP and Apple independently conclude who to sell to.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  So no restrictions at all, even by geo?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>None.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  Okay.  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Keith.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Rob Cihra with Fulcrum Global Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hi.  Thanks very much.  Actually a couple questions I'm not sure if you want to answer but I'll try anyway.  One I think was already asked, which is, if you felt like giving the mix of minis within the iPod in the June quarter.  Secondly, if you are willing to quantify at all the &#x2013; the amount of fiscal fourth quarter hit by the new iMac delay beyond the guidance you've already given.  And then thinking that maybe you won't answer either of those, I had one more, which was just to do with the Power Mac.  The softness that we've seen &#x2013; I know you went through the details in terms of the processor problems hurting that availability, that sort of thing, but it seems, to a certain extent, that every quarter maybe there's a little bit of a reason why those aren't as strong as they might otherwise have been expected to be, whether it's processors, channel, mix shift, or channel inventory shift, that sort of thing.  Is that sort of 200,000 or so per quarter bogey that you'd once talked about, do you think maybe that's history and maybe we should never think of a number that high for the Power Mac, or is it just the fact that with the processor delays, you really still can't be sure?  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Okay.  Rob, as you &#x2013; as you suspected, I am not going to answer your first two questions.  As relates to your Power Mac question, you know, the world is really going more mobile.  Our &#x2013; our portable sales are growing very, very quickly, and I would say that we are focused on maximizing our total Pro sales, would like to see them in the range of 400,000.  This past quarter, we did 393,000.  I would say, though, that when we begin to ship the new iMac, which will be based on a G5 in future quarters, some customers may opt to buy that.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay.  And so you're just looking at it more as a &#x2013; as an overall Pro number, rather than maybe the desktops?  Do you think you may be losing some to the notebook side?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No.  Our ASPs and margins are strong on the PowerBook and quite honestly we're indifferent.  Whether somebody wants to buy a G5 desktop or a PowerBook.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay.  Great.  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Rob.  Could we have the next question, please</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Howard Gleicher with Metropolitan West.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Hi.  Thanks very much.  I just have a follow up on an earlier question regarding the share count.  I believe even adjusting for the increased stock price, there was issuance of stock.  You mentioned that $190 million was received due to stock option exercise.  You have $12.65 in net cash, no debt.  You're generating in my estimations well in excess &#x2013; I don't know exactly how much &#x2013; about a dollar a share in cash a year.  Why do you allow the share creep?  Why don't you, at the very least, re  &#x2013; repurchase option &#x2013; option exercise shares and even better repurchase significantly more shares as &#x2013; as you have the cash available?  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Howard, it &#x2013; you know, at this point, we have opted to maintain our cash for flexibility to invest in our &#x2013; our business, and for possible acquisitions, and from time to time the board can consider a buyback program.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="a">
+        <plist>
+          <p>And Howard, this is Gary.  Just as a follow up to your comment, yes, there was actually &#x2013; there was stock option exercises.  When we look at the treasury stock method, which factors in average share price and &#x2013; and &#x2013; and employee stock option exercises, we got to 392 million shares.  Looking at internal assumptions and going forward, we would think that that number might be closer to 400 million next quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>And you couldn't entertain the notion of at least &#x2013; keeping the share count flat &#x2013; I understand the flexibility that you're trying to maintain, but you're diluting existing shareholders by not at least keeping that share count flat.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah.  Howard, you know, this is a board level decision that gets discussed from time to time, and while we do have an authorized buyback program which has about $300 million remaining, we have not been active in a couple of years.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay.  Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Howard.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Andy Neff with Bear Stearns.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Yes.  Thanks.  This is Bill Hand for Andy Neff.  Can you comment at all on component pricing trends?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Sure.  This is Tim.  We saw declines in memory, LCDs, and storage during the quarter, particularly the last part of the quarter that we just finished, and we expect that those will continue in the near term.  The other commodities, we believe will continue to follow historical takedown rates.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Great.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Shannon Cross with Cross Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Good afternoon.  A couple of questions here.  Can you give us an idea of how many weeks of iMac shipments are in your expectations that you've given us today?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Are you referring to the...</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>The &#x2013; to the new iMac.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>The new iMac.  No, Shannon, I &#x2013; we're not going to provide specific guidance on &#x2013; or the components of any of our specific products within our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  And &#x2013; but I would &#x2013; can we &#x2013; can you tell us if you would assume sort of full channel fill will be able to be accomplished by the end of September, or if that will stretch over into your fiscal first quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Again, Shannon, I don't want to get into what we &#x2013; what we may or may not ship with individual products in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  I think you can answer these ones.  How many Xserves were in your Power Mac number?  Because I know last quarter it was constrained.  I would assume it was still somewhat constrained by IBM's shortages during this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We did about 13,000, which was a record for us, and we left the quarter with some backlog due to late deliveries of processors.  We've since, subsequently to that, this quarter, we have cleared most of that backlog and are now in normal kind of shipment lead times on the Xserve.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  So we can expect a little bit extra this quarter but not &#x2013; not much, I would &#x2013; from normalized levels?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We don't make product line estimates.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  And can you talk a little bit about the supply of micro drives for the iPod minis?  You know, thoughts about additional providers and obviously, you know, it looks like you're going to be constrained through the end of the year, so what other options are out there, or is it &#x2013; you know, is there any other option out there at this point?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'll just say that we will do what is necessary to increase the supply to try to get closer to the demand.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  And just one final question.  In terms of the air freight costs, they'll be in this quarter &#x2013; I think &#x2013; I think &#x2013; should &#x2013; and maybe Ben asking you, just &#x2013; you said you're not going to comment on fiscal first quarter but just curious if, you know, assuming the delays are there, we could figure that air freight is basically for channel fill and things will be fine going forward.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Shannon, I'm just not at this point going to get into our views on Q1.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Shannon.  Could we have the next question, please</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to John McPeake with Seminole Capital Partners.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Thank you.  I just have a follow up on the share count.  The annualized rate in the just reported quarter is sort of 15%, and the guidance you gave for September does drop down to 8%.  I mean, should we think about shares going up about 8% a year, sort of going forward?  And then I just have a follow up.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I'm sorry, I did not understand the question.  Could you...</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Should we think about the share count, the fully diluted share count, going up at about 8% per year?  At Apple?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>I don't want to try and provide a forecast for next fiscal year, but as Gary indicated, for our fourth quarter &#x2013; for the fourth quarter share count, we would expect that to be about 400 million.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>Okay.  All right.  And then I just have a question on the iPod to CPU conversion.  You guys are, you know, characterizing the demand for the iPods as staggering.  It sounds like just anecdotally from talking to people I know that, you know, some people that buy iPods are buying CPUs and that's part of your strategy.  I was hoping you could talk a little bit about what you're seeing there.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.  We &#x2013; I'll make a few comments, and then Tim can add on, if he likes.  We were really happy with our CPU shipments this quarter.  Again, up 14% year over year.  And that's the best CPU quarter that we have had in three and a half years.  We are seeing still, in Ron's stores, that about 50% of the computers that he's selling are to people that have either never owned a Mac or coming back to the platform, and he would tell you that he thinks one of the biggest drivers of people coming into the stores and buying are people that have had a great experience using an iPod on the Windows platform.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Based on some outside surveys, our share of the freshman incoming class in a lot of higher ed institutions is increasing, and, you know, one of the things that we would attribute that to is the iPod, and so I would agree that anecdotally there's lots of good stories out there, and frankly, we are really pleased with a 19% revenue growth in the Mac related business.</p>
+        </plist>
+      </speaker>
+      <speaker id="21" type="q">
+        <plist>
+          <p>All right.  Great.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, John.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Bill Shope with J.P. Morgan.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Great.  Thanks.  Could you comment on whether or not your &#x2013; you have any potential loss in shelf space from the iMac delay and are you going to have to offer any special incentives to your channel partners, given the late quarter launch?  And then a semi related question.  Given the persistent delays in the G5, do you think, are you going to be able to get any price concessions from IBM because of these delays or is it still the normal pricing pattern that you had planned previously?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>On the shelf space question, with the iMac, you know, we typically have not had an issue getting our channel partners to carry new products because they're very excited about the sales opportunity in those, and I do not anticipate having that issue at this time.  On the G5 concessions from IBM, I &#x2013; I'd rather not comment on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="22" type="q">
+        <plist>
+          <p>Okay.  Thank you</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill.  Can we have the next question, please.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take a follow up from Bill Fearnly with FTN Midwest Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes.  I had a quick question on the Apple stores and preliminary metrics you might be seeing on traction in the SMB market given your recent seminar activities.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah.  Ron believed that his SMB sales in the June quarter were about 13% and continues to run many seminars and programs in the store to reach out into the community to SMB, but also to &#x2013; to education as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Okay.  And one last follow up on channels.  Do you folks provide any update on the Best Buy pilot formally?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We continue to do very great business with Best Buy in the iPod space, but the companies have jointly concluded not to pursue the CPU space at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Ben Reitzes with UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Yeah.  A couple of follow-ups just &#x2013; you had &#x2013; I've seen this $200 promo for &#x2013; or $200 off for a PowerBook and iPod together.  I was wondering, I don't think that had any impact in the quarter, did it, and then how are the expectations for that for back to school?  Is that &#x2013; any indication that that would take off with the iPod promotion?  And then the other is with regard to Europe.  How do you think sales there play out sequentially into what could be a seasonally slow period but you got the iTunes up and running there in some big countries and how does your momentum look there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>On the $200 promo, we started that in Q4, not in Q3, so we've just put that underway, and so that will be in this quarter's results.  We did run the same promotion last year at back to school time as well.  This promotion is exclusively geared toward education individuals, so incoming students primarily at higher ed, and it was a &#x2013; it was a significant success last year and so we wanted to repeat that this year in a period of time where iPod clearly has even more momentum than it did last year.  On Europe, we had a great, great quarter in Europe, both in unit and revenue terms that we just finished.  We don't provide forecasts at the geo level in terms of going forward, but I would just say that our business in Germany and the U.K. from a revenue growth perspective was very, very good last quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>How &#x2013; how would you characterize their takeup of iPod versus the U.S.'s and maybe in different stages of development?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You can clearly see that as the music store launched, the iPod sales began to move with it, and so there's a definite correlation in there from an awareness point of view and people then getting the total solution.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Ben.  Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll go next to Keith Bachman with Banc of America Securities.  Mr. Bachman, your phone line is open.  Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yeah.  Thanks.  Hi.  A couple follow-ups.  On the Circuit City, just so I'm clear, does that mean you're pulling your CPU business from their website as well?  I'm sorry.  Best Buy.  Best Buy.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We &#x2013; we do not plan to have a CPU relationship with Best Buy at this time.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  So it's on the website and at the store related activities.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Correct.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And then if I separated out your business in terms of the various pockets going from &#x2013; really trying to focus on the medium and large business, how much would you say medium and large enterprise represent of your total revenue pie?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Medium and large business in the last numbers that we had was a single digit kind of number.  9% or so.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Okay.  In terms of your total revenue, they &#x2013; large business represents &#x2013; medium and large business represents roughly 10% of your revenues?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes.  And that's an internal estimate.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yep.  Okay.  Thanks very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Keith.  Could we have the &#x2013; the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes.  We'll go to Shannon Cross with Cross Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Hi.  I just wanted to follow up on the channel strategy and Best Buy question.  Can you give us an idea of what the issues may have been between yourself and Best Buy, and if there are any implications for your ability to expand your channel strategy on the retail side going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Shannon, we try a lot of different things and pilot a lot of different things, and so I wouldn't say that there were any issues.  I would say both of us ran a pilot and at this time we concluded to continue this great relationship that we have on iPod and we concluded to not expand it on the CPU side.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  And with regard to iPods, have you had any frustrations or issues with your channel partners, given the supply constraints and the fact that you're running, I would assume, a significant amount of the iPods direct as opposed to going to other channels?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We have actually expanded the number of store locations around the world that are selling iPod over the last quarter, and it's now over 13,000.  And so frankly we have more people that want to sell it than we have supply for it just now.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  And &#x2013; and the 13,000, are those &#x2013; I would assume a significant portion of those have just started to sell the &#x2013; or will actually start to sell the iPod mini at the end of this year?  Or this month?  Given the launch in Europe?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Going into last quarter, we had right at 12 and so we added about 1,300, 1,400 or so store locations across the last 90 days.  And have a &#x2013; you know, another list of people who would like to sell it that we're currently looking at.</p>
+        </plist>
+      </speaker>
+      <speaker id="20" type="q">
+        <plist>
+          <p>Okay.  Great.  Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Shannon.  A recording of today's call will be available for replay via telephone for 7 days beginning at 5 p.m. Pacific time today.  The number for the replay is 719 457 0820, and the confirmation code is 439123.  A replay of the audio webcast of this call will also be available beginning at approximately 5 p.m. Pacific time today at www.Apple.com/investor, and will remain available for approximately 12 months.  Members of the press with additional questions can contact Steve Dowling at 408 974 1896, and financial analysts' can contact Joan Hoover or me with additional questions.  Joan is at 408 974 4570 and I'm at 408 974 5420.  Thanks again for joining us.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That does conclude today's conference.  Thank you for your participation.  You may disconnect at this time.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

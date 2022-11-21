@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="1294706" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Goldman Sachs Technology &amp; Internet Conference</title>
+    <date>2010-02-23</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">David Bailey, Analyst, Goldman Sachs</participant>
+      <participant id="1" type="corprep">Timothy D. Cook, Chief Operating Officer</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>I'm David Bailey from the Goldman Sachs hardware team.  Thank you very much for joining us.  And we are thrilled to have Tim Cook, the COO of Apple back with us again this year for the third time.</p>
+          <p>And before we get started, I think Tim wants to read a Safe Harbor.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>First of all, let me thank David and Goldman Sachs for inviting us and then I'd like to read the Safe Harbor, which I'm sure some of you may have heard before.  Please be advised that some of the comments you will hear me make during this discussion may include forward-looking statements and that actual results or trends could differ materially from those statements.  Information on potential factors that could affect Apple's financial results is included in our public reports filed with the SEC including our 10-K for fiscal 2009 and our 10-Q for the first quarter of fiscal 2010.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0" type="q">
+        <plist>
+          <p>Great.  So we'll just jump in with questions from there.  During the iPad launch a few weeks ago, Steve Jobs was very clear about saying that Apple's one of the leading providers of mobile devices, or the leading provider of mobile devices.  Is that how should we think about Apple at this point?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yes.  And let me elaborate here some because some of you may not have seen the iPod's launch &#x2013; iPad's launch keynote.  If you look at Apple's December quarter results, which included revenues of almost $15.7 billion which was a staggering result.  As we compared ourselves to every other company in the world, including Sony and Nokia and Samsung, which have huge mobile device businesses, we were actually &#x2013; we found out that we were the largest in the world measured by revenues.  So yes, you should definitely look at Apple as a mobile device company.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>And what does that mean from an investment perspective?  How are you channeling resources differently now than you were, say, a couple of years ago?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Frankly speaking, the transition to mobile devices for Apple began in 1991 and so it really began with the first introduction of a portable product for Apple with a TFT screen and over the period of time that transpired, particularly the last several years, the Macintosh business has become predominately a mobile device business.  And in fact, if you look at the statistics, Apple has led the PC industry by 10 to 20 points in terms of portable share, so this is a huge, huge difference between us and the balance of the industry.</p>
+          <p>And then if you sort of narrow the focus to the last decade, Apple announced the iPod in 2001, the iPhone in 2007 and then most recently the iPad; and of course all of these are mobile devices.  So the reality is that the vast majority of Apple's revenues come from either mobile devices or the content that's purchased for those mobile devices.  Now, we believe that we are uniquely positioned to do extremely well in a mobile device world, because we can integrate together seamlessly software and hardware and there's very, very few companies in the world that can do that well.</p>
+          <p>The traditional model where one company does an operating system, another company does key core apps, yet another company does hardware really begins to fall apart significantly in a mobile device world.  And so we very much are very happy to playing in the space.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>And in that light, who do you see as your biggest competitors now and who are your biggest partners?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I wish the world was that simple.  The fact is there's many people you can't cleanly put in one bucket or the other.  I mean take the &#x2013; take a couple of examples that obviously people in the room will think of quickly for us.  You take Microsoft.  In Microsoft, we love the Mac Office division.  They do a great product and we partner with them and work with them very tightly and we've done that for years and hope to do it for years more.  The &#x2013; most of the balance of Microsoft, we compete vigorously against in operating systems, in mobile operating systems, et cetera.</p>
+          <p>If you look at Google, I would say Google is similar in that respect.  We partner with them in maps, in search for most of our products.  But, we also compete with them in the mobile OS space and now in the hardware phone space.</p>
+          <p>And so it's difficult to put people in one camp or the other always.  There are some companies, like the media companies as an example, where we've partnered with so well that Apple is now selling billions of dollars of digital content.  And we think, based on the numbers that we've got, we're the largest digital content provider in the world.</p>
+          <p>There's also companies like carriers where we've partnered with to bring the iPhone to 86 countries around the world and so we have a lot of very key partnerships from that point of view.  The ones that draw the most attention are generally the ones that are more complex, because they're both partners and competitors.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>And so, this new move to mobile devices, what does that mean for your traditional desktop business and Apple TV and some of the other products?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Let me start with Apple TV.  Apple TV is still a hobby.  We've been very clear about that and the reason that we call it a hobby is that if you look at the other businesses Apple is in, the PC business, the MP3 business, the phone business.  These businesses are all in huge markets, the unit volume in these things are huge.</p>
+          <p>The reality is that the Apple TV is in a market that's very small today.  And so &#x2013; now Apple TV did grow in the quarter we just finished by 35% on a unit basis year-over-year.  And so we remain interested in it.  In fact, we improved the UI significantly in the late summer, early fall.  And so we're continuing to invest in it because our gut tells us there is something there.</p>
+          <p>However, today the go to market model for Apple TV is very difficult, because it would seem that that go to market model would lead to the TV and we have no interest in being in the TV market.  However, there's people, and I'm one of those, that are avid Apple TV users and so, because their gut says something's there, we're continuing to invest in this; but today it's just a hobby.</p>
+          <p>The iMac is a totally different story.  The iMac is the best desktop computer in the world.  It is doing phenomenally well.  We will continue to invest in this.  If you look at the numbers for the most recent quarter, take the U.S. since most of its audience is U.S. oriented, according to NPD we had a 22% unit share in the retail channel, in our desktop business, which is primarily iMac and the revenue share was a staggering 42%.  And so iMac is very key, will continue to be very key and I think people will continue to want a very gorgeous large screen all-in-one, simple to use, very elegant machine and we're going to continue to deliver it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Now, two years ago at this conference, you characterized the iPhone as a platform rather than a product and that makes a lot of sense now after the iPad launch.  How do you sort of see the world evolving in this new world of mobile devices where you have the iPod on one side, MacBooks on the other and the iPad somewhere in between?  Where do you see the growth coming from going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>This is a good &#x2013; this is a really good question.  Here's the exciting thing, is that if you take a look at the Mac, the Mac has outgrown the market 20 of the last 21 quarters; five years in a row has outgrown the market and in many of those quarters out &#x2013; not only outgrew it, but outgrew it by multiple.  And the PC industry is over 300 million units according to IDC per year.  Last year the Mac did, in our last fiscal year, did over 10 million units and so the ceiling is far above.</p>
+          <p>And so we continue to invest an enormous amount of energy and talent in the Mac because it doesn't take market growth for us to grow in the Mac.  What we have to do is convince Windows users to switch and we can provide a much better experience than they can.  And 50% of our customers in the Apple store are from Windows and so we're going to continue to go after that and we think there's a lot growth potential there.</p>
+          <p>In the iPod family, which you didn't talk about but let me briefly hit on that.  The iPod Touch has been a runaway hit and it helps the platform that you're talking about.  If you look at the iPod Touch, it grew 100% year-over-year in the last fiscal year.  In the December quarter, it grew 55% and these are growing off of big bases so these are staggering results.  And every one we sell helps fuel more application sales, which helps fuel more developers which helps fuel the platform even stronger and so iPod Touch, we think, is a great growth vehicle and the numbers certainly indicate that.</p>
+          <p>The iPad, we haven't sold a one yet but there's a lot of interest in it and I've been using one for six months or so.  I would tell you the experience is just absolute incredible.  And so we're obviously very excited about this thing and can't wait to start shipping it.</p>
+          <p>The iPhone, I feel like we've just gotten started.  It was only &#x2013; it's hard to believe, but it was only 2.5 years ago that we shipped the first iPhone and now between the iPhone and the iPod Touch, we've been &#x2013; we've hurdled the 75 million barrier; just on iPhone we're over 40 million and this is as of last &#x2013; the end of last quarter so I'm not giving updates in the current quarter.  And what all of these things are doing is making this platform larger and larger in its ecosystem better and better and the applications get more and &#x2013; are becoming more and more what people really desire and they can't live without them.</p>
+          <p>And so, I think that there are a very few companies on a lift that can manage a platform; and the truth is Apple's been doing this for 30 years and so this is something deeply embedded in the DNA of the company of knowing how to manage a platform and you can look at the results:  over 3 billion downloads on the application store, over 140,000 applications offered for sale.  And these are incredible numbers; who would have dreamed of these just a year ago?  So I see opportunity all over the place is the net of it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>And then just following up on the platform, now that you have the mobile OS and the three stores, are all the pieces in place or do you still need more to fill out the platform?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think the word complete is not in our dictionary.  We're all about innovation and so many times that means we're all about obsoleting ourselves and so we're going to continue to make better things better and better and continue to innovate because that's why we're here.  But I'd say the ecosystem is really good, the platform is really good.  And certainly all of the foundation is in place.  Will it get better?  Yes, clearly it will get better, but the foundation is great.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>You talked about your own personal experience with the iPad.  When you think about the target market for that is it a totally new use case for people or do you think it will be cannibalistic, maybe, of netbooks which are clearly an inferior product or some of the other categories that are out there for competitors?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>On the cannibalization question, we haven't sold one and I'm a paranoid guy by nature.  But I'm not losing any sleep over cannibalization to be very honest with you.  In terms of the &#x2013; about who would buy it, I've been very clear about my view of netbooks.  I think they are an experience that most people will not want to continue to have.  I think they &#x2013; that people were interested in the price and they got it home and used it and they went, why did I buy this?  And so I think when somebody looks at the iPad and plays with it and experiences the magic of it and they compare it to a netbook, I find it hard to believe that people are going to buy netbook.</p>
+          <p>Now everybody won't make the comparison, obviously, so I'm not suggesting that.  But obviously some of those customers are game for the iPad; I think there are many others though and what I'd rather do with this question is report back to you once you start selling them and we can tell you who's buying them.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>When you think about the distribution for the iPad, will it be closer to what you are doing today on the iPhone or closer to the way you sell Macs today?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think it will evolve.  Initially, since we're launching a new category, what we plan to do is launch it in Apple's direct channels which means our retail stores, our online stores, our education sales force and our other direct sales forces.  And in addition, in the indirect channels where we have assisted sales, which would include things like our store-in-store at Best Buy is an example of that.</p>
+          <p>And also internationally, we have program called Apple Premium Resellers, which have incredible Apple experiences and so initially, it would be around places with really great assisted sales.  Over time it will expand and where it goes and how fast it goes, we'll see.  But we're going to start it in places where we have salespeople that can answer questions and feel good about the answers they'll give.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>If we can talk about the price points a little bit for the iPad.  I think at the higher end, sort of the 700 to 829 price point.  That was relatively consistent with what we were expecting from a pricing and configuration perspective, but you have prices that go all the way down to $500, which I think is lower than almost anyone was looking for.  Why was it so important to hit that $500 price point?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We didn't want to leave a pricing umbrella for competition and so we got very aggressive on this.  It's an incredible value at 499.  It's amazing the experience that you can have.  It has &#x2013; for those of you that haven't focused on this, it has the best browsing experience you could ever imagine and probably better than 99% of you could imagine.  You have to try it.</p>
+          <p>Email is off the charts.  It has the platform which gives you the ability to have all of the apps from the application store.  It's a way to share photos like you've never had before.  You can watch video.  You can listen to music.  You can read books on it.  We are &#x2013; we will open an iBook store at the same time that we launch the unit which will allow you to buy books digitally.  And so it's got a number of things that are appreciably better, we believe, than anything else, anything offers today.  And I'm very anxious to start getting it out where people can play with it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Now, with the announcement of AT&amp;T as the sole carrier for the iPad, you extended a key partnership that's taken place with the iPhone previously.  More broadly, can you talk about the advantages and disadvantages of having an exclusive agreement either from a financial perspective or from a go-to market or market brands perspective?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's a good question.  The primary advantages on a single carrier model and I'll speak &#x2013; I'll use &#x2013; I'll talk about the iPhone because that's where we have the experience with carriers the most, obviously, is simplicity.  And in some cases we're able to innovate along with the carrier and provide a feature that it would be difficult for &#x2013; to work with multiple carriers and provide.  An example of this would be on the initial iPhone, visual &#x2013; we brought visual voicemail to market.  This took innovation from both Apple and the carrier partner.  And so that, I think those are the key advantages of a single-carrier model.</p>
+          <p>On a multi-carrier model, the question on a multi-carrier model is can you sell more units.  And so, what that gets at is in some countries, carriers have very sticky relationships with their customers and so having more carriers and more distribution allows you to sell more units.</p>
+          <p>And so that's the trade-off between single and multiple.  If you look at where we are in &#x2013; let me say this is from the end of our Q1, which was in December.  If you looked at our top 10 iPhone countries, five of those were single-carrier countries, three of those five we had a contractual exclusivity for a period of time, two of those we can add carriers anytime that we desire to add.</p>
+          <p>And in fact across 2009, as probably most of you saw, we added carriers in France, we added in the United Kingdom, we added in Singapore, we added in several Scandinavian countries, we added in Canada.  And so a great deal of our work last year on the distribution side was expanding carriers in existing countries.</p>
+          <p>And I'm &#x2013; was pleasantly surprised that in every single country our units increased significantly and the share with it.  And so we feel like we made a set of really good decisions last year in terms of expanding.  And now, I'm not saying that that would be the case in every country or that we would do it every country.  I'm just saying that was our experience with the ones we did in 2009.  We look at each of these on a country-by-country basis and then come to an intelligent decision and we will continue to do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>And you came out with some innovative pricing around the iPad; would another vendor need to match that pricing in order to even have a shot of being the carrier for that product?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well you know the &#x2013; I think AT&amp;T's pricing is revolutionary.  And so if you look at the pricing, for those of you that didn't see this, you can have unlimited data on the iPad for 29.99 per month and 250 megabytes of data for 14.99 a month.  So to put that in some context and a five-gigabyte limit on a notebook dongle costs $60 and you sign a contract, generally speaking, with the notebook plan.  The plans that I told you about for the iPad requiring no contract, so I do think it's revolutionary pricing.  I wouldn't want to speculate about what else somebody would have to do to join the party but we feel like we've really got a fantastic offer working with AT&amp;T for the iPad customer.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>As you continue to roll out new devices, there's a greater divergence on the technology or technological capabilities of those products going from sort of the original iPhone, now all the way up to the iPad.  And you talked a little bit before about the virtuous cycle you have with the developers; how do you sort of protect the user experience as these developers go out and try to develop products that go over that big of a range of products?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well this is the privilege and curse of technology.  This is the same as you would see that in the PC world, where at some point if you include every piece of hardware you've ever shipped you stifle innovation and you can't do that.  I mean, the users don't want that and we don't want that, developers don't what that.  And so there's always a balancing act about how far to go back and how much of an installed base to include.  I think we &#x2013; because we've done this for so long and made that decision so many times I feel like we've come to a really intelligent conclusion on these each time and I think that's a part of our knowledge and heritage as a platform provider.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>When you look at longer term, do you see the world moving more towards the iPhone OS or operating systems like that that are thin but can handle both applications that you can get on the app store as well as traditional Mac application like iWorks on the iPad?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well I don't &#x2013; that's a really &#x2013; another really good question.  I don't see it as this or that or this over that.  I think that there is a place for both and what you're seeing with Apple is that the Mac OS is amazingly scalable.  And this is a huge competitive advantage for Apple, because we have the &#x2013; we use the Mac OS from the iPod Touch to the new iPad to the iPhone to the Macintosh.  And I think there's no other company on the earth that can use the foundation of their OS in such a way.  And so that allows us to innovate at an enormously fast speed with many fewer people than what it would take if we were geographically north.  And so this is a really huge advantage for us.  Maybe I should just leave it there.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Continue.  Our surveys continue to indicate and have now for quite some time that the iPhone and the Mac are seeing significant interest in the enterprise space.  What are you doing from a technical perspective as well as a go-to-market perspective in order to capture that opportunity?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, we have seen this as well.  Let me start by talking about the iPhone.  In &#x2013; for the iPhone, and again the iPhone is 2.5 years old so 70% of the Fortune 100 companies in the U.S. are either deploying the iPhone or currently testing for deployment; 50% of the Financial Times 100 are doing the same thing.  And so we saw a huge uplift in interest from corporate customers as we went to the iPhone 2.0 software and then 3.0 because we put a number of enterprise features in the software.  And we clearly see this continuing.</p>
+          <p>On the Macintosh side, we &#x2013; it's amazing how many CIOs are now visiting Apple and are interested in the Mac.  And we haven't put on a huge channel or we don't have to huge direct sales force for enterprise.  But many CIOs that once thought standardization was the most important thing in life now thin &#x2013; they look at the salaries of people and the importance of having people's creativity and at peak and they're increasingly deciding to let the employee decide.  Well, this mega trend helps Apple immensely because many employees have always wanted to use the Mac.  I mean, who would not want to use the Mac or select the Mac over a Windows unit.  And so I think this is an enormous mega trend that it's positive for Apple.</p>
+          <p>In addition to that, the Mac OS is well known for being more stable, of having better security, and you get all of the ease-of-use features that everybody loves.  And so we clearly see there's &#x2013; now I would caution you, I think &#x2013; I'm not saying you do, David, but I think people in general hear enterprise and they think that the enterprise is bigger than the consumer market, but it's not.  In PCs as an example, the enterprise is about 10%, which is a sizeable portion of the market but consumers are 50 &#x2013; over 50.  And so our heart and soul in DNA is in consumer.</p>
+          <p>It just so happens that there are consumers working in enterprises that want to use these products and now, with what we've done &#x2013; look at what we've done in the last few years.  We developed Boot Camp, which allows a Macintosh to run Windows for that one program that you may want to use or for that insurance policy that you want, because you may eventually have a program that is not compatible with a Mac.</p>
+          <p>And that spurred VMware and Parallels to put out products that you could simultaneously run the OS.  And then in our latest edition of the Mac OS, which we call Snow Leopard, exchange support is built right in.  It just works.  And so we've increasingly done what the enterprise &#x2013; not maybe in everything, but many things that the enterprise wanted for the Mac, we've done those and we've done those on iPhone and as we've done those that's the reason you're seeing the results in the surveys that you're doing.</p>
+          <p>And I think it's for both of the reasons that you've articulated, it's both there is interest from the traditional CIO who's changing the way he or she views purchases and its employees coming in and saying not can I have a Mac, but why can't I have a Mac.  I prefer a Mac and I may be making a $150,000 a year and if you can make me 1% more productive you've paid for the Mac Plus just in one year.  And so I think these are the realities that people are now looking at this question differently, at least the ones with a lot of vision are.  You guys &#x2013; I think they liked that one.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Yeah.  I think you liked that one too.  Switching to something a little more mundane, you're re-accelerating your growth in your stores.  I think you opened around 32 last year, you're looking for 40 to 50 this year ...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There's nothing mundane about stores that.....</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Nothing mundane about Apple, in general.  So what's your thinking about ramping that back up again?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, since &#x2013; we started retail in 2001 and so we've been at it now for nine years.  We've got just short of 300 stores; Ron Johnson has built a world-class retail team bar none.  We went into retail not as a test, not as a pilot, but as a commitment to sell product directly to consumers because many consumers wanted that and at the same time it was a commitment to a multi-channel approach because we knew we would never have enough stores to cover the world.</p>
+          <p>And so after we got going, we set a range of 25 to 50; we thought was a reasonable range that we could execute extremely well that we could continue to learn and make sure those learnings then went back into retail and so we like that pace.  In &#x2013; we've been at the low end of that, we've been at the high end of that.  2008 comes along and I don't need to tell anybody in this audience, somewhere in 2008 the world started to fall apart and it really fell apart maybe some in 2009.  And we made a strategic call that we thought by slowing down that we would see many more opportunities &#x2013; that this economic recession, that one benefit of it would be that some top properties would come on the market with better economics.</p>
+          <p>And so we slowed it down and guess what?  Now there's a lot of great properties on the market.  And so we see this, we want to take advantage of this, so we've turned the dial-up and now we're going to be at the high end of that 25 to 50 and do about 50 this year.</p>
+          <p>We've always had the team to do 50.  This is not &#x2013; I'm not saying it's easy to do.  It's not easy to do; it's very hard to do.  But we're very confident with our team's ability to do it.  We didn't lower the bar at all.  We are &#x2013; these stores are among the best we've ever done.  As a matter of fact, there's probably several people in here from New York.  If you haven't been you should go to the Upper West Side store.  It will make your jaw drop just looking at it from outside.  It's incredible.  And if you &#x2013; the next time you're in Paris, make sure you go to the Louvre because we've opened store at the Louvre and it's another one that, it's just amazing.  And there will be another store in China in Shanghai in the summer that is a &#x2013; is mind-blowing and another one in London that will also drop your jaw.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>With the iPad launched, you launched a new processor, the A4.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>Why did you feel like you had to go out on your own?  What was missing in the market that you needed to step in and fill it?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, let me make a couple of points here.  One, Apple has for years been in the silicon design business.  When we were on the PowerPC architecture, Apple always personally crafted the Northbridge and Southbridge chipsets.  And so it's not new to us to be in the silicon design business.  As we looked at some of the products that we are doing like the iPad and some that we will do in the future, we felt that we had the best knowledge of what we wanted the silicon to do and we were in the best ability to deliver that ourselves versus going out to somebody else and buying something that really wasn't exactly what we wanted.</p>
+          <p>And in the mobile device world, particularly as you get smaller and smaller, there are tremendous parameters that &#x2013; other than the functionality of the silicon, the thermal characteristics of the silicon become very important.  So there's a number of things that we felt we were much better positioned to do and at the end of the day, we want to make the world's best products and we felt by doing that ourselves, we were more likely to achieve that objective and so that's the reason we've done it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>When it comes to making acquisitions, Apple has traditionally targeted companies that have great technology, not necessarily those that add to the top line.  Is that a fair way to describe your acquisition strategy, and what might cause that to change?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>I think it's a great way to describe historically what we've done; it's very accurate.  We have acquired companies for technology and talent and they have been on the small side.  We've looked at large companies but we have not had a large company pass a strategic and a financial test.  And we don't let our money burn a hole in our pocket.  And so unless we find something that really make sense for Apple shareholders, we're not going to do it.</p>
+          <p>The small ones have been incredibly valuable to us, and mainly from the talent point of view, but also somewhat from the technology point of view.  And so we will continue to do those and if we find a large one, we're not &#x2013; we won't be shy about it, but we won't do it to do it because we have never been about being the biggest; we've always been about making the best products, not having the highest market share or the highest revenue, and so acquiring a company so our revenue gets larger isn't something that drives us.  Nor would it be something good for our shareholders in my opinion.</p>
+        </plist>
+      </speaker>
+      <speaker id="0" type="q">
+        <plist>
+          <p>That's a great lead in for our final question.  Apple's had incredible success as has its employees from both a product and a financial point of view.  So how do you prevent that success from taking away the creative energy that happens with Apple and how do you stop hubris from creeping in?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah, that is a great question.  The executive team of the company spends a lot of time thinking and discussing how to retain and recruit the best talent in the world, because it's &#x2013; at the end of the day, I know it's a clich&#xE9;, but people are our most important asset by far and it's people that deliver innovation, which is key to us.</p>
+          <p>And so what else do we do other than that?  Well, we are the most focused company that I know of or have read of or have any knowledge of.  We say no to good ideas every day.  We say no to great ideas in order to keep the amount of things we focus on very small in number so that we can put enormous energy behind the ones that we do choose so that we can deliver the best products in the world.  In fact, the table that each of you are sitting at today you could probably put every product on it that Apple makes, and yet Apple's revenue last year was over $40 billion.  I think the only other company that could say that is an oil company.</p>
+          <p>And that is not from just saying yes to the right products, which gets a lot of focus, it's saying no to many products that are good ideas but just not nearly as good as the other ones.  And so I think this is so ingrained in our company that this hubris that you talk about, which happens to companies that are successful but then decide their sole role in life is to get bigger, and they start adding this and that and this and that.</p>
+          <p>I can tell you the management team at Apple would never let that happen.  We &#x2013; that is that's not what we're about.  And so focus on people and ensuring that it's a small list of things to work on and putting all of our wood behind those things, that's the magic behind us.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great and with that thank you very much, Tim.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you.  And thanks everybody for joining.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you, great.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

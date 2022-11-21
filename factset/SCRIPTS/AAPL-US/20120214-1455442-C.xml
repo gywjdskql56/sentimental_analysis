@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="1455442" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Goldman Sachs Technology &amp; Internet Conference</title>
+    <date>2012-02-14</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="analyst" affiliation="Goldman Sachs &amp; Co." affiliation_entity="05KFM2-E" title="Analyst" entity="05P83D-E">Bill C. Shope</participant>
+      <participant id="1" type="corprep" affiliation="Apple, Inc." affiliation_entity="000C7F-E" title="Chief Executive Officer &amp; Director" entity="05F520-E">Timothy D. Cook</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>All right, thank you all for joining us today for this afternoon's keynote. I'm Bill Shope, Goldman Sachs' IT Hardware Analyst. I'm thrilled to have with me here today, Tim Cook, CEO of Apple. As many of you know, Tim was appointed CEO last August. Before that, Tim was Chief Operating Officer for Apple and he has a very rich history with Apple and even before that, a rich history in the computer industry, so we're very thrilled to have his insights this afternoon. Thank you, Tim, for coming.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you for inviting me. We're glad to be here.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And I know you wanted to start off with a Safe Harbor statement?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes. I'm sure no one has heard this before. Please be advised that some of the comments you will hear me make during this discussion may include forward-looking statements and actual results or trends could differ materially from those statements. Information on the potential factors that could affect Apple's financial results is included in our public reports, which are filed with the SEC, including our 10-K for fiscal 2011 and our 10-Q for the first quarter of fiscal 2012.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>All right. Well, thank you. With that, we'll get started. Tim, before we dig into financial strategy and product, I wanted to touch on a topic that's been pretty prominent in the mainstream press as of late. There's been a lot of articles about supply chain conditions in technology and in particular, conditions with Chinese workers assembling Apple's products, and I wanted to get your take on that. Just an understanding of what investors should know about Apple's relationship with the supply chain and the workers in the supply chain.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes, thanks for the question. The first thing that I would want everyone to know is that Apple takes working conditions very, very seriously and we have for a very long time. Whether workers are in Europe or in Asia or in the United States, we care about every worker.</p>
+          <p>I've spent a lot of time in factories personally and not just as an executive. I worked at a paper mill in Alabama and an aluminum plant in Virginia. Many of our top managers and executives visit factories on a regular basis and we have hundreds of employees that are based there full time. So we are very closely connected to the production process and we understand working conditions at a very granular level.</p>
+          <p>I realize that the supply chain is complex and I'm sure that you realize this. And the issues surrounding it can be complex. But our commitment is very, very simple. We believe that every worker has the right to a fair and safe work environment free of discrimination where they can earn competitive wages and they can voice their concerns freely. And Apple suppliers must live up to this to do business with Apple.</p>
+          <p>We also believe that education is the great equalizer and that if people are provided the skills and knowledge that they can improve their lives. We put a lot of effort into providing educational resources for workers throughout our supply chain. We provide free classes in many of the locations in our supply chain and we partner with local colleges to provide courses like English and entrepreneurship and computer skills and the like.</p>
+          <p>More than 60,000 employees have attended these classes, which is pretty amazing when you think about it. If you could take all of these employees and move them to one location, it would be a campus population larger than Arizona State, which is the largest public university in the United States. Many of these workers go on to earn Associate's Degrees. And so, this is a very powerful stepping stone for people looking to advance their careers and their lives.</p>
+          <p>In terms of problems that we are working to fix, you can read the details on our website. But I would tell you that no one in our industry is doing more to improving working conditions than Apple. We are constantly auditing facilities, going deep into the supply chain, looking for problems, finding problems and fixing problems. And we report everything because we believe that transparency is so very important in this area. I am so incredibly proud of the work that our teams are doing in this area. They focus on the most difficult problems and they stay with them until they fix them; they're truly a model for the industry.</p>
+          <p>Let me give you some examples, because I think this is so important and this is so topical, in both the large to small. We think the use of underage labor is abhorrent. It's extremely rare in our supply chain, but our top priority is to eliminate it totally. We've done that with our final assembly, vendors that are now working down into the supply chain. If we find a supplier that intentionally hires underage labor, it's a firing offense.</p>
+          <p>We don't let anyone cut corners on safety. If there's a production process that can be made safer, we seek out the foremost authorities in the world, the foremost experts and cut in a new standard, and then take that and apply it to the entire supply chain. We focus on the details. If there's a fire extinguisher missing from the cafeteria kitchen, then that facility doesn't pass inspection until that fire extinguisher's in place.</p>
+          <p>We're continuing to focus on the problems that are endemic to our industry, like excessive overtime. We have &#x2013; our code of conduct has a cap of 60 hours for a workweek, but we've consistently found violations to this code over the course of our time.</p>
+          <p>So at the beginning of this year, we announced that we're determined to drive widespread change and we've begun to manage working hours at a very micro basis. As an example, in January we collected weekly data on over 0.5 million workers in our supply chain and we had 84% compliance. Now this is significantly improved from the past but we can do better. And we're taking the unprecedented step of reporting this monthly on our website, so that it's transparent to everyone what we're doing.</p>
+          <p>Now as you probably know, the Fair Labor Association began a major audit of our final assembly vendors at our request. We started working with the FLA last year on an auditing project and just in January, we were the first technology company ever admitted into their association. The audit that they're conducting is probably the most detailed factory audit in the history of mass manufacturing in scale, in scope and in transparency and I'm looking forward to seeing the results.</p>
+          <p>We know that people have a very high expectation of Apple. We have an even higher expectation of ourselves. Our customers expect us to lead and we will continue to do so. We are blessed to have the smartest and most innovative people on Earth, and we put the same kind of effort and energy into supply responsibility as we do with our new products. That is what Apple is all about.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Thank you for that, Tim. Moving on to products. Shifting to the iPhone, we were talking about this on the way up here. I think most investors and analysts were extremely surprised by the strength in iPhone shipments in the December quarter; 37 million units is obviously well above what any of us anticipated. At the same time, there are always skeptics, and I think the natural reaction to that number was, when do we start running into the law of large numbers? How do we think about growth from here? What's next? Can you walk us through how you think about that? And in particular, walk us through some of the greenfield growth opportunities for the iPhone in the coming quarters, coming years.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes, 37 million is a big number. It was a decent quarter. It was 17 million more than we had ever done before, and so we were pretty happy with that. But, let me give you a different &#x2013; at least the way I look at the numbers, which is maybe a little differently than you do. But as I see it, that 37 million for last quarter represented 24% of the smartphone market. So there's three out of four people that bought something else. And it represented less than 9% of the handset market, so nine out of 10 people are buying something else.</p>
+          <p>The smartphone market last year was 0.5 million units; in 2015, it's projected to be 1 billion units. The handset market is projected to go from 1.5 billion to 2 billion units. And so when you take it in the context of these numbers, the truth is this is a jaw-dropping industry. It has enormous opportunity to it. And so up against those, the numbers don't seem so large anymore. What seems large to me is the opportunity. And so what we're focusing on is the same thing we've always focused on, which is making the world's best product. And we think if we stay laser-focused on that and continuing to develop the ecosystem around the iPhone, that we have a pretty good opportunity to take advantage of this enormous market.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>When I look at those opportunities, one of the key areas is obviously the emerging market opportunity. One of the challenges there, as you've talked about in the past, is a large portion of that market's the prepaid market. And while Apple's done very well, that's been in spite of the fact that your wholesale price points, or prepaid price points, are nowhere near what we'd normally categorize as a volume market. So how do you address that challenge, and specifically address the challenge of making the iPhone more affordable to that broader market that you're talking to?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well, these markets are, first of all, they're critical. To kind of go back to something I said before, the smartphone market's projected to be 1 billion units in 2015, so just a few years from now, three years from now. And 25% of that is projected to come from China and Brazil. And so just two of the markets, 25%, and obviously, those are two very critical markets, but there are others as well.</p>
+          <p>And so, we've been very, very focused on China. And &#x2013; China we've had incredible success with iPhone, and last year, over the past few years, we've gone from a few hundred million dollars of revenue in greater China to last year with $13 billion. And so, we've really been focused on trying to understand the market there, and then taking these learnings to other markets.</p>
+          <p>As it turns out, and not very many people agree with me on this probably, but here's &#x2013; what I see is that there's a lot of commonality in what people around the world want. Everyone in every country wants the best product, as it turns out. They're not looking for a cheap version of the best product; they're looking for the best product. And, so that's the common thread that runs through.</p>
+          <p>Now, in the emerging markets, there are very big differences in the go-to-market. For example, in most of the developed markets, the carrier owns most of the distribution it sells. But in the emerging markets, the retailer has the significant portion of the distribution. And so, the whole go-to-market has to be changed significantly as you go in there.</p>
+          <p>We've, last year, as you know, we covered price points in the subsidized markets from zero on up. And of course, that doesn't translate to zero in a prepaid market. But it does translate to lower in the prepaid market, and so we're covering more price points there. But I would come back to the paramount thing is the product. It is the focus. And of course, distribution we've recognized the differences there.</p>
+          <p>We recognize the difference in purchasing power and by the way, unlike probably many people, I don't really subscribe to the premise that a prepaid market is a prepaid market is a prepaid market. Because in China, one of the things that we did was we convinced China Unicom to try &#x2013; the postpaid business as well. And it really hadn't been tried very much in China before, but it was amazing what kind of conversions that they got to the postpaid business with iPhone.</p>
+          <p>And this is great for the customer because they get the phone at a lower price. It's great for the carrier because they lock in a customer for a longer period of time and so everyone wins from this. And I'm not saying that will work in every market; it won't, but it's a different way of looking at the issue and it's certainly been successful in China.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I guess extending that to your emerging market strategy overall, even beyond China, what are some of the challenges and opportunities obviously outside of the iPhone as well, with the iPad and the Mac, and how do you think about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes, this is a very good question. As it turns out, when Apple introduced the iPod in 2001 and then after porting it to Windows and getting the iTunes Music Store up and porting iTunes Music Store to Windows, the iPod created a halo for the Mac, and that kicked off a resurgence in the Mac that has now &#x2013; for 23 consecutive quarters we've outgrown the margin on the Mac. That's six years. And, however, the halo that was created by iPod for the Mac was created in developed markets. It was created in the United States. It was created in Western Europe. It was created in Japan. It was created in Australia and Canada.</p>
+          <p>It didn't work nearly to the same level in Eastern Europe, Middle East, Africa, China, other parts of Asia, Latin America. Because people were already getting music from their phone and, however, the world changed for us in many ways when the iPhone was launched because the iPhone began to introduce Apple to literally hundreds of millions of people &#x2013; some that bought it and some that didn't, others that desired it.</p>
+          <p>But it introduced our brand to people who had never met Apple before and now it's interesting to look, and I'll take China as an example because I talked about that, last year, the Macintosh in China grew over 100% year-over-year. Not on a big base, but 100%'s pretty good. And the market grew 10%, so it outgrew the market 10x.</p>
+          <p>And so what is clearly happening now is the iPhone is creating a halo for the Macintosh and the iPhone has also created a halo for iPad and so you can definitely see the synergistic effect of these products, now not only in the developed markets, but in these emerging markets where Apple wasn't really resident to any degree for most of it's life.</p>
+          <p>And just to give you some numbers to put it in context some, if I look back at 2007, I'm picking that because we didn't launch the iPhone outside the United States until 2008. And so in 2007, the revenue combined from greater China, several other parts of Asia, India, Latin America, Eastern Europe, Middle East, Africa was $1.4 billion. The revenue last year for that same group of countries was $22 billion and we're only on the surface. That's how I feel because we've focused mainly in China and last year we began to focus increasingly more on Brazil and in some level in Russia. But there's lots more opportunity out there and so I think this is very, very profound and very big for us.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Sure, and we're certainly seeing it with the results over the past several quarters. Shifting to the iPad, it's been around seven full quarters of reported iPad shipments. You've shipped around 55 million units. That's the fastest product ramp for any iOS device or any Apple device in your history. What do you think it is about that product that was able to generate that type of demand? Particularly since over that period you haven't had a price cut, you haven't yet increased storage capacity. What was able to cause that ramp to move so quickly? What does that tell you about the tablet market longer term? I mean what have you learned about this market and its potential?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yes, this 55 billion is something no one would have guessed, including us. To put it in context, it took us 22 years to sell 55 million Macs. It took us about five years to sell 22 million iPods. It took us about three years to sell that many iPhones. And so this thing is, as you said, it's on a trajectory that's off the charts. And so, why is this? Well, the product is absolutely incredible, and the pace of innovation on the product has been incredible. And so, we've gone from iPad 1 to iPad 2 in a fairly short order and the ecosystems that developers have helped us build out is 170,000 apps that are optimized for iPad. And so, this is incredible.</p>
+          <p>The reason that it's so large, in my view is, one, the iPad has stood on the shoulders of everything that came before it. And so, the iTunes Store was already in play. The App Store was already in play. People were trained on iPhone. And so, they already knew about Multi-Touch. And so, there was lots of things that became so intuitive when somebody begins to use a tablet, that, I mean, literally you could, people, you could give it to, I gave one to my mother and she knew how to use it like this, from just watching the commercial.</p>
+          <p>And so, it's amazing how the product has captured so many different people's &#x2013; you're using one. My mother is using one. My seven-year-old nephew uses one. I go to the gym in the morning, the trainer's using one. At Starbucks, I look around, everybody has one reading their newspaper or whatever. In education, it's being used. In the enterprise, it's being used in big numbers. And so it's, from my point of view, it's the fastest adoption across a wide range that I've ever seen before.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now what does that tell you about where we could be heading? You've made comments in the past that tablets could be larger than the PC market, or you expect it to be larger than the PC market over time. I mean, how are you thinking about this? Obviously, if we just draw the curve, it certainly gets there.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>You know, we started, obviously in Apple, using the iPad well before it &#x2013; well, before it was launched. Of course, we had our shades pulled and everything so that nobody could see us. But, what I started noticing about my own personal behavior was, all of a sudden it quickly became 80% to 90% of my consumption and work was done on the iPad. And so, honestly, from the first day it shipped, we thought, and just, not me, many of us thought at Apple, that the tablet market would become larger than the PC market. And it was just a matter of the time that it took for that to occur.</p>
+          <p>And I feel that stronger today than I did then because as I look out and I see all of these incredible usages for it and I see the incredible rate and pace of innovation and the developers &#x2013; if we had a meeting today in this hotel and we invited everybody that's working on the coolest PC apps to come to the meeting, you might not find anybody in the meeting. But if you did that same thing for iOS or that other operating system and said, everybody comes that's working on this, you couldn't get everybody in this hotel. You'd have somebody covering every square inch here. And so that's where the innovation is.</p>
+          <p>And so that doesn't mean that the PC's going to die. I love the Mac and the Mac is still growing and I think it can still grow. But I strongly believe that the tablet market will surpass the unit sales of the PC market and it's just a matter of the rate and speed and time that that happens. It's too much of a profound change in things not to I think. So anyway that's my opinion. People can always disagree. I feel strongly about it if you can't tell.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I can tell. I will say when the iPad first came out; there were certainly a lot of skeptics. Many of your competitors in the technology industry were skeptical. Now you look around, just about every company's launching their own tablet, many of them launched last year.</p>
+          <p>When I look at the competitive landscape, last year, frankly, despite all the new tablets coming into the marketplace, no one really made a dent on Apple's progress, partly because no one could match your price point. But as I look forward, we are seeing some innovative models; Amazon's in particular, where companies are figuring out ways to actually undercut the price point for the iPad. And I know it's not all about price, but how do you think about that? Obviously there is this big gap in pricing now versus products like that.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>I think the price is rarely the most important thing. A cheap product might sell some units and many may get it home and they feel great when they pay from their wallets the money but then they get it home and use it and the joy is gone. And the joy is gone every day that they use it and they wind up not using it anymore. And so you don't keep remembering, oh I got a good deal, because you hate it.</p>
+          <p>And so what happened last year, everybody that was in the PC industry and everybody that was in the phone industry, everybody decided they had to do a tablet. And so by some estimates, there's 100 tablets put on the market last year. And everybody was kind of aiming at iPad 1 and we were trying to innovative quickly to get to iPad 2, and so by the time they had something that they thought could compete with iPad 1, we were on iPad 2, and we wound up with 170,000 apps, and I'm not sure there's 100 yet on the other platform.</p>
+          <p>And so I think people at the end of the day, they want the great product. And so on Amazon, Amazon is a different kind of competitor. They're different, they have different strengths and so forth, but you know I &#x2013; and I think they'll sell a lot of units. I think they have and they will, but I think the customers that we're designing our products for are not going to be satisfied with a limited function kind of product. And I think that the real catalyst to the tablet market will be innovation and pushing the next frontier. And so honestly, we'll compete with everybody. I love competition. As long as people invent their own stuff, I love competition.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That's fair. The &#x2013; I guess closing up on tablets there, or the iPad; there's also been a debate that I think continues to evolve over how cannibalistic tablets are to PCs. Now you talked about the tablet market surpassing the PC market over time, but a lot of investors here today I'm sure are also trying to figure out how quickly the PC market falls off because of tablets. And I'd say there was a lot of skepticism on cannibalization at all a year ago, certainly much less today. But as a company that offers both general purpose computers in the Mac, as well as the iPad, how do you think about that dynamic for your own business and for the PC industry overall?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well I think that iPad has cannibalized some Mac sales and the way that we always view cannibalization is we'd prefer to do it, than have somebody else do it and so we never want to hold back one of our teams from building the absolute greatest thing, even if it takes some sales from another product area. I mean our high order bit is we want to please customers, we like them buying Apple stuff.</p>
+          <p>Now I think &#x2013; I don't predict the demise of the PC industry. I don't subscribe to that. I do believe, given what we've seen, is that I do believe iPad is cannibalizing some Mac, it's cannibalizing more Windows PCs. There's many more of them to cannibalize than Macs. And, you know, that's a plus for us. And I think tablets in general will cannibalize PCs.</p>
+          <p>But, I think what it will do largely, as time goes on, is that when you're competing with someone, maybe politicians do this, I don't know anything about politics. But, I think it forces you to sharpen your message and tell who you are. And it's so, I think it'll be good for the PC industry because they've got this strong competitor, and I think it'll be good for tablets because they'll innovate like crazy over here. And customers will decide what to buy at the end of the day. And, I do think that out of that, there will still be a strong PC industry. I just think the tablet industry is going to be larger in units than the PC.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That's fair. Shifting over to your balance sheet, there's, it's been a hot topic of discussion, it always is, but I think it's picked up as of late.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Occasionally I get a question on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Occasionally, right? You have just under $98 billion in net cash and liquid investments. In the past, you've used your cash fairly sparingly; I'd say, on supply chain pre-buys, which have been very useful for the company, small acquisitions. I guess my question would be, why has there been a reluctance to buy back stock, and/or to issue a dividend? And, should we expect that to change?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well, let me first talk about your use of the word sparingly, because this one I don't agree with. Or at least, sparingly is not the same, I wouldn't use the word in the same context. We've actually spent billions in the supply chain. We've spent billions on acquisitions and, including the acquisition of IP. We've spent billions on retail. We've spent billions on the infrastructure of the company in data centers and so forth to, for the App Stores and iCloud, et cetera. But yes, we still have a lot.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Certainly for Apple.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>And so, but I guess I'm just pointing that out to say that we're, I would say we're judicious. We're deliberate. We spend our money like it's our last penny. And I think that's, I think shareholders want us to do that. They don't want us to act like we're rich and we've never felt that way, honestly. That may sound bizarre, but it's the truth.</p>
+          <p>Now in terms of our approach on cash, I've said since becoming CEO, I'm not religious about this. I'm not religious about holding it or not holding it. And we're in very active discussions at the board level on what we should do. But I think everyone would want us to be deliberate and really think through and that's what we're doing. So we're not going to go have a toga party or do something outlandish and so people don't have to worry that it's going to burn a hole in our pocket.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That's fair. And I think, very active discussions helps us to understand that you're considering the issue. Would you say that over the past year, the discussions have become more active? I mean, is this something given that the size of this &#x2013; the point I'm getting to...</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>You could be a reporter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The point I'm getting to is the cash balance is so large now. Is there a point where you have to say the view potentially that it's inefficient to carry that much cash on the balance sheet?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>It was always discussed and so it's not new that we're discussing it. It is being discussed more now and in greater detail and that's because the balance has risen to the point that you've already made and I think it's clear to everyone and I'd be the first to admit we have more cash than we need to run the business on a daily basis. I'm sure everybody would agree with that in here. And so we're actively discussing it and so I only ask for a bit of patience so that we can do this in a very deliberate way and make the best decision for the shareholders.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>No, that makes sense. Shifting back to technology. There's been a lot of discussion about Apple's position in the living room, what you're going to do in the television market. Thus far, Apple TV's been a product that you've said's in the hobby stage. What holds you back from becoming more aggressive with this market opportunity perhaps entering the traditional television market? And what have been the challenges that have kept it in the hobby stage thus far?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>I wouldn't want to go into detail about future stuff, obviously, or make any comments that people would misconstrue along those lines, but in terms of our existing product, we sold just shy of 3 million Apple TVs last year. If you don't have one, you should go out and get one, it's a very cool product and I couldn't live without it, just as a short commercial break. And we sold 1.4 million in last quarter. And so it's clearly ramping, but the reality, the reason we call it a hobby is that we don't want to send a message to you or our shareholders that we think that the market for it is the size of our other businesses, the size of the phone business, the size of the Mac business, the size of the iPad business or the iPod business.</p>
+          <p>And so we don't want to send a signal that we think the leg of that stool is of equal length as those others and so that's the reason we message it as a hobby.</p>
+          <p>Apple doesn't do hobbies as a general rule. You know we believe in focus and only working on a few things and so with Apple TV however, despite the barriers in that market, for those of us who use it, we've always thought there was something there, and that if we kept following our intuition and kept pulling the strings that we might find something that was larger. And so for those people that have it right now, the customer stats off the chart, but we need something that could go more main market for it to be a serious category for the company. But if you don't have one, you should get one because it's a really cool product.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>I have one. We only have a few more minutes left, so I wanted two more questions. But I wanted to touch on Siri and iCloud. I think the Apple story is often told as a series of hit products over the past 10 years, past several decades, but it can also be told, obviously the success of the iTunes music store, the success of the App Store, iOS, the platform enhancements that you've come out with, particularly over the past decade. Where in that story does Siri and iCloud fit in? And how important is it to Apple going forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>I think Siri and iCloud are profound. If you take iCloud and if you dial back 10 years, 12 years, Steve announced a strategy for Apple that positioned the Mac or PC as the hub of someone's digital life. And out of that Apple developed a whole suite of apps called iLife and you could connect many gadgets off of this and sync all of your music or photos, you could edit your photos, you could edit movies and so forth, but the idea was that the PC or Mac was the repository.</p>
+          <p>iCloud turns that on its head, because it recognizes that across that decade, particularly the last two, three years, you and I live off of multiple devices. And it's no longer a great customer experience to have to sync your iPad to your Mac, and then your iPhone to your Mac, and then re-sync your iPad because there was something on your iPhone, and you know, this is a hair-pulling exercise.</p>
+          <p>And so, the iCloud recognizes the Mac or PC as another device. And all of a sudden, your life has just gotten so much easier. We now have 100 million users of iCloud. We just launched it in October; 100 million. I mean, this is unbelievable. And so, and there's obviously more that we can do with it. So I view iCloud as not a something with a year-or-two product life, but it's a strategy for the next decade or more. So, I think it's truly profound.</p>
+          <p>Siri. For years if you were a PC or Mac user, you used a physical keyboard and you used a mouse for input. And you pretty much did that for a long, long time, and there wasn't a great deal of, there was evolution in that space, but not a lot of revolution, really. And then all of a sudden, Apple comes out with Multi-Touch on the Mac Pros, and this was really cool, and then extended that into phones and tablets, so this has completely changed those industries in total.</p>
+          <p>Well, Siri is another profound change in input. And it's something that we've always dreamed of. I think all of us wanted this to work. It's sort of like having a video call; with FaceTime, it was, ah-ha; it can work. And so, I think that &#x2013; and Siri, it's hard to imagine, is just a beta product. I've never felt I couldn't live without a beta product before, but now I feel like I can't live without one. And so, I think these two are both profound.</p>
+          <p>They're not things where we run separate P&amp;Ls on, because we don't do that, we don't believe in that. We manage the company at the top and just have one P&amp;L, and don't worry about the iCloud team making money and the Siri team making money. We want to have a great customer experience, and we think measuring all these things at that level would never achieve such a thing. And so, but I do think that both of these go in the profound category. They're not these things that you will, that will not mean anything a year or two from now. They are things that you will look back at, that you'll talk to your grandkids about that were profound changes.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>No, that makes sense. Well, we're just about out of time. I want to close with one final question. Obviously you've stated several times that as CEO, you want to focus on preserving Apple's culture, Apple's strategy. But when we look back at CEO changes historically, every CEO leaves their mark on a company's strategy and on a company's culture. So can you walk us through, in your opinion, how you think you &#x2013; what your leadership may bring to change Apple and what you're really determined to maintain as well?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well I think the most important part of that question's the second part is Apple is this unique company, unique culture that you can't replicate, and I'm not going to witness or permit the slow undoing of it because I believe in it so deeply. Steve grilled in all of us over many years that the company should revolve around great products and that we should stay extremely focused on few things rather than try to do so many that we did nothing well. And that we should only go into markets where we can make a significant contribution to society not just sell a lot of products in a market.</p>
+          <p>And so these things along with keeping excellence as an expectation of everything in Apple &#x2013; these are the things that I focus on and &#x2013; because I think those are the things that make Apple this magical place that really smart people want to work in and do their life's &#x2013; not just their life's work but their life's best work. And there's no better thrill than to look out at an audience &#x2013; I can't see anything because of these lights, but look out at an audience and see people using iPhones or see people &#x2013; I go to the gym and see people using iPods or go to Starbucks and seeing people use the iPad. I mean these are the things that bring a smile to my face, and there is no replacement or no substitute for that. And so we're always focused on the future. We don't sit and think about how great things were yesterday. And I love that trait because I think it's the things that drive us all forward and so, those are the things I'm holding on to, and it's a privilege to be a part of it.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Well, it was a privilege to have you here. Thank you, Tim, for joining us. This was great. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

@@ -1,0 +1,858 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="1108977" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q4 2007 Earnings Call</title>
+    <date>2007-10-22</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+      <participant id="1" type="corprep">Nancy Paxton, Senior Director, Investor Relations and Corporate Finance</participant>
+      <participant id="2" type="corprep">Peter Oppenheimer, Senior Vice President and Chief Financial Officer</participant>
+      <participant id="3">Benjamin Reitzes</participant>
+      <participant id="4">Peter Oppenheimer</participant>
+      <participant id="5">Timothy Cook</participant>
+      <participant id="6">Nancy Paxton</participant>
+      <participant id="7">Gene Munster</participant>
+      <participant id="8">Richard Gardner</participant>
+      <participant id="9">David Bailey</participant>
+      <participant id="10">Kathryn Huberty</participant>
+      <participant id="11">Shannon Cross</participant>
+      <participant id="12">Andrew Neff</participant>
+      <participant id="13">Harry Blount</participant>
+      <participant id="14">Toni Sacconaghi</participant>
+      <participant id="15">William Fearnley</participant>
+      <participant id="16">Robert Semple</participant>
+      <participant id="17">Michael Abramsky</participant>
+      <participant id="18">Keith Bachman</participant>
+      <participant id="19">Andy Hargreaves</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good day, everyone, and welcome to the Apple Incorporated fourth quarter 2007 quarterly results conference call. Today's call is being recorded. At this time for opening remarks and introductions, I would like to turn the conference over to Miss Nancy Paxton, Senior Director, Investor Relations and Corporate Finance. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you. Good afternoon and thanks to everyone for joining us. Speaking today is Apple's CFO, Peter Oppenheimer, and he will be joined by Apple's COO Tim Cook and Treasurer Gary Wipfler for the Q&amp;A session with analysts.</p>
+          <p>Please note that some of the information you will hear during our call may consist of forward-looking statements regarding revenue, gross margins, operating expenses, other income and expense, stock-based compensation expense, taxes and earnings. Actual results or trends could differ materially from our forecast. For more information, please refer to the risk factors discussed in Apple's Form 10-K for 2006, the Forms 10-Q for the first, second and third quarters of 2007, and the Form 8-K filed with the SEC today and the attached press release. Apple assumes no obligation to update any forward-looking statements or information, which speak as of their respective dates.</p>
+          <p>And with that, I would like to turn the call over to Peter Oppenheimer for introductory remarks.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Thank you, Nancy. Thank you for joining us. We are pleased to report record results, including the highest September quarter revenue and earnings in Apple's history. Revenue of 6.22 billion increased 29% over the prior September quarter. The revenue was driven by record Mac sales and continued strong demand for iPods.</p>
+          <p>Operating margin for the quarter was stronger than expected at 17.1%, resulting primarily from higher revenue and gross margin than we had anticipated. Net income was 904 million, which was up 67% over the prior September quarter's result, and translated to earnings per share of $1.01.</p>
+          <p>I'd like to talk first about our Mac products and services, which represented 62% of our total quarterly revenue. We are extremely pleased to have shipped 2.16 million Macs, 400,000 above the June quarter's all-time record for Apple and representing 34% growth over the year ago quarter.</p>
+          <p>On a worldwide basis, Apple's growth rate was over 2 times IDC's most recently-published market growth rate for the September quarter. Customers responded very favorably to the new iMacs we announced in August, driving 31% year-over-year growth in desktop systems. Demand for Apple's MacBooks and MacBook Pros continued to be very strong. Sales of portables increased 37% over the prior September quarter and accounted for 62% of Macs sold. We ended the quarter with slightly less than 3 weeks of Mac channel inventory.</p>
+          <p>Now I would like to discuss our Music products and services, which accounted for 36% of total revenue during the quarter. We sold 10.2 million iPods, representing 17% growth over the year-ago quarter. We began and ended the quarter within our target range of 4 to 6 weeks of iPod channel inventory. Reaction to the new iPods announced last month has been very positive and we are shipping the best iPod lineup ever as we head into the holiday buying season. Apple executed a very smooth transition to an all-new iPod lineup without a hitch.</p>
+          <p>Other Music revenue grew 33% year-over-year, once again fueled by strong iTunes store sales. We're very pleased with initial reaction to the iTunes Wi-Fi Music Store and our new relationship with Starbucks. iTunes continued to account for over 85% of songs purchased and downloaded in the U.S. according to the latest data available from Nielsen SoundScan, and iTunes customers have now purchased over 3 billion songs and 100 million TV shows.</p>
+          <p>Based on the latest data from IFPI Market Research, 17% of global music sales in the first half of calendar 2007 were digital, up from 11% in all of 2006. We believe that the popularity of iTunes has been instrumental to the growth in this trend. Based on the latest data from NPD, iTunes continues to be the third largest distributor of music in the United States, having surpassed both Target and Amazon.</p>
+          <p>We're thrilled to have sold 1.1 million iPhones during the quarter, and customers are really loving the product. Our research shows that an amazing 95% of iPhone customers would recommend the iPhone to others. Additionally, the research firm Strategy Analytics estimates that iPhone was the fourth highest-selling handset in the US market in the September quarter. We're recognizing revenue from iPhone handset sales using subscription accounting over a 24-month estimated economic life.</p>
+          <p>Total revenue recognized during the quarter from sales of iPhones, iPhone accessories, and payments from AT&amp;T was 118 million. Total deferred revenue from iPhone and Apple TV was 636 million at the end of the September quarter compared to 180 million at the end of the June quarter.</p>
+          <p>As you know, after lowering the price of iPhone to 399 last month, we offered a $100 credit to customers who had purchased an iPhone prior to the price reduction. We are accounting for the credits as they are redeemed by charging the associated product costs to cost of goods sold. We anticipate most of these redemptions to occur by the end of the December quarter.</p>
+          <p>We're on track to begin selling iPhones in Europe on November 9, partnering with O2 in the U.K. and with T-Mobile in Germany. As we announced last week, we will begin selling the iPhones in France beginning on November 29, partnering with Orange.</p>
+          <p>I would like to now turn to the Apple retail stores, which posted record quarterly revenue and traffic, driven by very strong interest in Macs, our new iPods, and the iPhone. Revenue was 1.25 billion, representing 42% year-over-year growth. The stores generated 268 million in segment margin compared to 156 million in the year-ago quarter. We opened 12 new stores during the quarter, ending with 197 stores. With an average of 190 stores open during the quarter, average revenue per store was 6.6 million compared to the 5.6 million in the year-ago quarter. The stores sold 473,000 Macs during the quarter, representing 46% year-over-year growth. Once again, over 50% of the customers buying Macs in our stores during the quarter were new to Mac. We delivered over 300,000 personal training sessions and ended the quarter with 387,000 members in our One to One and ProCare programs.</p>
+          <p>Over 31 million people visited our stores during the quarter, representing over 12,500 customers per store per week. We will continue to invest in new stores in the US and internationally, with approximately 40 stores scheduled to open in the coming year, including previously announced high-profile stores in New York and Boston. We are also pleased to announce plans for our first store in China, which will open in Beijing next summer.</p>
+          <p>Our US education channel also posted an outstanding quarter, with record revenue and Mac shipments. Our new account initiative in the K-12 market was very successful, and our extremely popular back-to-school promotion drove strong MacBook and MacBook Pro sales, contributing to our best higher ed quarter ever, with 36% year-over-year growth in total Mac sales.</p>
+          <p>Total company gross margin was 33.6%, which was lower sequentially, but higher than expected due to a number of factors. We benefited from: a higher margin product mix, a weakening US dollar, a better-than-expected commodity environment and a higher mix of direct business. Operating expenses were 1.03 billion, including 58 million in stock-based compensation expense. We capitalized 22 million of software development expense related to Leopard during the quarter.</p>
+          <p>OI&amp;E was 170 million. The tax rate for the quarter was about 27%, lower than our anticipated rate of 32%, primarily due to a benefit from the settlement of prior-year audits. We had very strong cash generation during the quarter, increasing our cash balance to end with 15.4 billion. Cash flow from operations was 1.7 billion.</p>
+          <p>Looking ahead to the December quarter, I would like to review our outlook, which includes the types of forward-looking information that Nancy referred to at the beginning of the call. For the quarter we are targeting revenue of about 9.2 billion. We expect the total quarterly cost of non-cash stock-based compensation to be approximately 92 million.</p>
+          <p>We expect gross margin to be about 31%, reflecting approximately 12 million related to stock-based compensation expense. We are guiding gross margin down sequentially as a result of several factors including: the full quarter impact of our recent product transitions and reduced pricing, lower sales of iLife and iWork in their second quarter, seasonally higher component costs, and a higher mix of indirect sales.</p>
+          <p>We expect OpEx to be about 1.165 billion including about 80 million related to stock-based compensation. We expect OI&amp;E to be about 195 million and we expect the tax rate to return to about 32%. We expect to generate EPS of about $1.42, including an anticipated $0.07 per share related to stock-based compensation.</p>
+          <p>In closing we are extremely proud of our record-breaking fiscal 2007 results. We generated over 24 billion in revenue and 3.5 billion in net income. We sold 7 million Macs and 52 million iPods, each growing by more than 30% over the prior year. We introduced the revolutionary iPhone and sold over 1 million in the first 74 days.</p>
+          <p>Our retail stores hosted over 100 million visitors and produced 4.1 billion in revenue. We exited the September quarter with great momentum. Mac shipments exceeded our previous quarterly record by 400,000 systems, and we're very excited about the arrival of Leopard later this week. We introduced an entirely new lineup of iPods last month, and customer reaction has been very strong. We've clearly accelerated the momentum for iPhone sales with our new pricing, and we're very enthusiastic about our entry into the European mobile phone market next month. We're looking forward to our best December quarter ever as we head into the holiday buying season with the strongest product lineup in Apple's history.</p>
+          <p>With that I would like to open the call to questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Thank you. <mark type="Operator Instructions" />. We'll take our first question from Ben Reitzes from UBS.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>I don't like to cheerlead, but nice quarter. The question is regarding guidance. With regard to your usual pattern, Peter, you seem to be more conservative usually. You guided up versus the street by quite a bit to 9.2 billion, maybe arguably 700 million better. What are you seeing that allows you to be so confident in the face of some people being worried about the economy at this time?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Ben, regarding the economy, we'll leave forecasting the global economy to others. But as I really commented at the end, Apple is shipping the best products that we have ever made in our history. We just eclipsed the record that we set for Mac sales last quarter by 400,000. iPod sales accelerated after the transition, and we're shipping the best iPods that we've ever made. And the iPhone is doing really, really well. So we're quite confident in the business, and we've exited the September quarter with a lot of momentum.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>More precisely, on the guidance for iPods, it would seem that launching in September; did you feel that a lot of iPod sales are pushed into the December quarter? And, not necessarily pushed, but just naturally the full lineup hasn't had a chance to be fully reflected and that's part of the reason for the guidance as well? Or, and how do we reconcile the sequential for Macs as well? It would seem the guidance implies Macs are up.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Let me begin with Macs, and maybe I'll let Tim address your iPod question. For Macs, in the two most recent quarters units have been relatively flat from the September quarter to the December quarter, as our education business falls off and is more or less offset by holiday consumer buying. This year it's possible that Mac sales could be sequentially a little lower given the extraordinary success of the back-to-school promotion, which intensified the seasonality of the September quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. So you're saying Macs could be lower due to that promotion. Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Could be. We had just a fantastic September quarter, but really back-to-school and our higher ed results were an all-time high for the company.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Ben, in terms of iPod, sales accelerated dramatically after the introduction of the new iPod, and based on some early market share data we've seen from the UK, France, and Germany, our share is up significantly in the month of December &#x2013; or September &#x2013; the UK up 12 points, Japan up 12 points, and France up 6 points. Given these kind of increases, we feel that we are very well-positioned going into the holiday quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Got it. And then lastly, with regard to gross margin, Peter, you talked about going from 33.6 to 31 and you mentioned that the iLife sales go down, but we have Leopard shipping on the 26th. I was surprised to hear you not mention that as a major offset on the gross margin line.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, as I commented in my prepared remarks, we are looking forward to Leopard shipping this week. We are very excited about Leopard. But in terms of &#x2013; and I didn't think you'd forget about that, but I wanted to focus you on some factors that I think on a net basis will cause gross margin to go down and that's why I made the comments that I did.</p>
+        </plist>
+      </speaker>
+      <speaker id="3" type="q">
+        <plist>
+          <p>Okay. Thanks a lot, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Ben. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Gene Munster from Piper Jaffray.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Good afternoon and congratulations. Peter, if you could talk a little bit about the line item iPhone related products and services in terms of &#x2013; when I'm doing the math here as far as revenue contribution per quarter for the iPhone, is it one eighth or one twentieth &#x2013; is it by the month or by the quarter, could you give a little bit of clarity on that? And second is, how does it work for the AT&amp;T revenue share, is it also bucketed by day, by month, or by quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Gene, in terms of iPhone, we are recognizing revenue from handset sales over a 24-month period of time. We actually do do that on a daily basis. Our revenue from iPhone, which includes amortization of handsets, accessory sales, and payments from AT&amp;T, was 118 million in the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. So for the AT&amp;T contribution and the iPhone contribution, it's on a 24-month -- it depends on the month that the phone is sold, is that correct, not the quarter, it's the month?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>No, for the handset, we are amortizing that revenue over 24 months, but as regards payments from AT&amp;T, we will recognize those payments as revenue over time as earned, and I'm not going to get into more detail than that.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. So that could be by the day, potentially?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Gene, I'm just not going to get into any more detail about our carrier agreements.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. And I guess this probably is under the category of more detailed, but is the AT&amp;T, is it generally a longer-term kind of agreement or more near-term or any term? Any thoughts in terms of how long that contract will go?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>As we indicated a couple of quarters ago, it is a multi-year exclusive agreement.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. And then just one final question. In terms of the Best Buy stores, how many Best Buy stores were kind of up and running at the end of the quarter? How many do you expect by the end of the December quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Gene, we had 230 operating at the end of the September quarter, and we expect more than 270 at the end of the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="7" type="q">
+        <plist>
+          <p>Okay. Has that had an impact on the business yet, or do you still kind of see that to come?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We're very pleased with it. It had very good results, and we're looking forward to expanding it in this quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Gene. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Richard Gardner of Citigroup.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Thank you. I had two questions. First of all, I thought it was quite encouraging that your PC channel inventories were below your target range despite the fact that you did expand the Best Buy agreement in the quarter and was hoping you could give us some detail on why that was the case. And then secondly, I was also surprised to hear that higher component prices were one of the reasons that you cited for sequentially lower gross margin in the fourth calendar quarter, because based on our checks, most components seem to be coming down in price now. So I was hoping that, Tim, you might be able to reconcile that for us?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes, sure. On your component question, here's what we see going on in the quarter. As you know Rich, DRAM and NAND flash markets were favorable last quarter, and we believe that that will continue during our Q1. Hard drive and LCDs were tight last quarter, and they continue to be at the beginning of this quarter, but we do expect these to stabilize as the quarter unfolds. The other commodities are trading near -- are declining near historic norms. In terms of the channel inventory on the Mac, we are -- primarily have low inventories at the end of the quarter because our sales were higher than expected.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay, and Tim, that channel inventory calculation is done on a forward sales basis, correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>It's done on a look-back basis.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. All right. And then finally I was hoping for clarification on how you're accounting for the iPhone rebate in the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>I know you mentioned it in the prepared remarks, but I missed it.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. We are accounting for the credits as they are redeemed by customers, and we'll charge the associated product costs to cost of goods sold. And as I indicated in my prepared remarks, we anticipate that most of these redemptions will occur by the end of the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="8" type="q">
+        <plist>
+          <p>Okay. Great. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Rich. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to David Bailey of Goldman Sachs.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Yes, thank you. I was wondering if you could help us understand your pricing strategy for iPhone in Europe, where the pricing is higher and effectively going up versus the US price as the dollar weakens.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>We have set our price in Europe; David when we announced and that price also includes VAT and other related duties.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>And then can you just follow up and tell us what the percentage of direct sales were in the quarter and maybe give us some idea of what you're expecting for the December quarter since this will be a drag on gross margin?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. In the September quarter, our direct sales were 57% of total company revenue, and that was up from 53% in the year-ago quarter. I can't give you a forecast for this December quarter, but last year in Q1, direct sales were 44% of total company revenue.</p>
+        </plist>
+      </speaker>
+      <speaker id="9" type="q">
+        <plist>
+          <p>Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, David. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Kathy Huberty from Morgan Stanley.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Yes, hi, thank you. Europe outgrew the US now for four quarters in a row. Is that sustainable or is there some currency factors that are showing up in the numbers?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Europe did have excellent growth. In fact, year over year, we were up 37% in revenue and 47% in units as you combine the retail stores with the channel results. In terms of Mac units, this is over four times the IDC projected gain for Western Europe, and so we're thrilled with the results. Europe did not have the typical lull in August that we have seen. The iMac announcement, and then followed by the iPod announcement in early September was enough to overcompensate for that. We've factored our view of the future into the guidance that Peter provided earlier.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>And then just quickly, Peter, are there any nuances that will show up in the model as non-US revenues become a larger percentage of the business as it relates to either the margin profile or tax rate over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Well, I'm not sure how to really answer the first part of your question, but in terms of the second part, generally for most US companies, growth in foreign earnings is a benefit to your taxes, your US tax rate.</p>
+        </plist>
+      </speaker>
+      <speaker id="10" type="q">
+        <plist>
+          <p>Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Katy. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>
+            <mark type="Operator Instructions" /> Next we'll go to Shannon Cross of Cross Research.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Hi. Good afternoon. Just going back to the revenue question, can you talk maybe, Peter, a little bit about the biggest drivers quarter-over-quarter, because obviously there's a substantial ramp coming, and is it more Mac or iPod or anything you can give us, because it's a big increase?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>It is, and as we've said before, the holiday quarter is usually the big quarter for iPods, and as I said, we're shipping the best iPods that we've ever made and are looking forward to the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay and then maybe if you could talk a little bit about the ramp in iPhone through the quarter. Obviously a pickup as you lowered the price. Any more color you can give us there?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Shannon, we certainly saw sales accelerate after the price reduction, and as Peter mentioned earlier, we were able to sell 1.1 million for the quarter, giving us a cumulative number of 1.4. So we were very happy to check that major checkpoint off our list.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay and then just one final question. Maybe you could talk a little bit about efforts you have to address the SMB channel, both with Macs and iPhone. Just curious if that's helping to ramp and any specifics you can give us?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>The SMB market is difficult to measure; however, in terms of what we can see operating out of our online stores and out of our retail stores, we are doing well there and growing. In terms of iPhone, we've said many times that we're providing a solution in iPhone that many businesses love. It gives people a desktop-class e-mail, which is very unusual for a phone and is an unprecedented Internet device. I think, clearly there's some businesses buying them and very much enjoying them.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Are you working with Salesforce.com on their initiative to modify their software for iPhone?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Yes.</p>
+        </plist>
+      </speaker>
+      <speaker id="11" type="q">
+        <plist>
+          <p>Okay, great. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Shannon. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Andrew Neff of Bear Stearns.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Yes, thanks. Just a couple of things, just one, just if you could clarify Peter, what you were saying about the tax rate for this quarter, was it anything that we'll see again next year, or if you could give a sense of the guidance for next year. And second, I guess Tim, if you would like, you told us when you thought you'd ship the millionth iPhone, any idea when you'll ship the three millionth iPhone?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'll start with that one. The answer is we're not predicting, Andy.  I would reiterate that we're very confident with shipping 10 million in the calendar year of next year. We were very happy to ship our one millionth and by the end of the quarter 1.4. I think it's interesting to note that the 1.4 million, it took us over 24 months -- over two years to achieve a comparable number on iPod. So we're thrilled here. We're very focused on going into the U.K. and Germany in early November and then in France in late November, and we're on target to enter Asia in calendar 2008, a lot of focus on iPhone.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Andy, and to your tax rate question, the tax rate in the September quarter was about 27%, which was lower than our anticipated 32, primarily due to a benefit from a prior-year audit that we had. And as I gave you in my guidance, I expect the tax rate to return to 32% in the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Also, could you just give a sense about Japan? That's the one market that seems to be on the Mac side lagging and that's been lagging for some time. You've talked about the market growth issues, is there anything else going on in Japan that you can talk about?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Andy, it's fair to say that Japan continues to be our most challenging major market. It's the only market that we're -- a major market that we're not growing significantly in. However, for this past quarter, we were very encouraged with the Macintosh results. The iMac was very well received and the overall Macintosh had its best year-over-year performance in Japan in seven quarters, with units up 14% year over year, and that compares to an IDC estimate of the market in Japan contracting an additional 2%. So it's a tough market. In terms of revenue, the revenue that you see on the sheet, the iPod had a very difficult compare because we sold a very large number to one Telecom Company for promotional purposes a year ago. So that was the main driver in the revenue decline.</p>
+        </plist>
+      </speaker>
+      <speaker id="12" type="q">
+        <plist>
+          <p>Lastly, Peter, over the last, eight quarters you've exceeded guidance and I know that you're trying to give us a good sense of what's going to happen, but how should we interpret now you're looking at a very strong quarter. You're a little above where the Street is. How should we calibrate your guidance at this point?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Andy, I give you guidance each quarter that we believe we have a reasonable chance of achieving. And I've talked to you about our view of how we're performing in our product areas, and Tim's made some comments, and in some of our distribution areas as well. We're very confident in our strategy and that the team here at Apple has been working incredibly hard for a number of years, and things are just really coming together quite well for us. I couldn't be happier.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Andy. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Harry Blount from Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Thanks. Peter, just, sorry to keep coming back to this rebate question, but it sounds like you're going to recognize that rebate as a period impact on COGS, but I think you're recognizing the rest of COGS on the iPhone over a 24-month amortization. Is that, am I hearing that correctly?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, as regards the iPhone $100 credit, we will account for it when customers redeem their credit. We will charge it to the cost of the product, to the cost of goods sold, and we expect most of the redemptions to occur by the end of the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Just to clarify, though, why are you doing the rebate as a period cost whereas the rest of COGS for the iPhone is more amortized over the 24 months?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sure. The credit was an additional, but unspecified product deliverable to iPhone customers, which is why we are not accounting for it before it was redeemed, but accounting for it at the point of redemption.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Then on the European carrier revenue rec, is that also going to be structurally similar to the AT&amp;T revenue rec in terms of what the components that are period costs versus the components that are amortization costs?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In terms of payments that we may receive from European carriers?</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Well, just, the handset amortized over 24 months, the accessories recognized in period, and the payments. Is it the same structure?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yeah, we will recognize the revenue from handsets over 24 months regardless of where they are sold. We will recognize revenue from iPhone accessories at the time of sale and we will recognize payments from AT&amp;T and other carriers as revenue over time as earned.</p>
+        </plist>
+      </speaker>
+      <speaker id="13" type="q">
+        <plist>
+          <p>Okay. Tim, real quickly, just a benchmark on the number of Mac distribution locations and the number of iPod locations?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We're over 40,000 on iPod, and within the last year we've added about 2,000 Mac locations to around 8,700 currently.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Harry. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Toni Sacconaghi from Sanford Bernstein.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Yes thank you. I am trying to get a better sense of how significant the elasticity was around the price cut with the iPhone. My sense was obviously in Q2, you did 135,000 phones a day, excuse me, in Q3. In this past quarter, you were probably doing 5 to 10,000 phones a day before you cut the price and then you averaged about 18,500 phones after you cut the price on the iPhone per day. Can you give us a sense of what the trajectory of daily sales volumes was from the iPhone immediately following the price cut and then how that ended 22 days later at the end of the quarter? Was it relatively constant, did it actually get better as the word leaked out? Can you give us a sense of that? Because clearly when you initially announced the product, you had a strong deceleration from enormous anticipation to when you cut the price.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Toni, we were very happy with the elasticity that we saw. It enabled us to far surpass our expectation of hitting around 1 million units cumulatively by the end of the quarter. Some number of these were sold to people that have an intention to unlock, and where we don't know precisely how many people are doing that, our current guess is that there were probably 250,000 of the 1.4 million that we sold where people had bought them with the intention of doing that. Many of those happened after the price cut. We're not going to project precise numbers, as I told Andy before, in terms of as we go into Q1, but we remain very confident with hitting 10 million units in the calendar year 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And can you give me a sense of the daily sales rate immediately following the price cut versus the daily sales rate either at the end of the quarter or over the last week? Has it been maintained or have we seen an acceleration or a degradation in that daily sales rate?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No. The only thing that I'll say, Toni, is that we obviously saw an acceleration once we took the price cut. We're not going to get into disclosing our daily sales.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>And then you raised the issue of the unlocked intention. I presume that phones that are sold that ultimately are not subscribed to the AT&amp;T network are not eligible for any payments from AT&amp;T, correct?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>That's correct. The payments on AT&amp;T depend on being locked to AT&amp;T, obviously.</p>
+        </plist>
+      </speaker>
+      <speaker id="14" type="q">
+        <plist>
+          <p>Then in terms of thinking about next quarter, the cell phone market is modestly seasonal. Typically your Mac business has been flat to slightly up in Q1. Your iPod business has been up 100% or more. The phone market tends to be up about 15% or so as a market. Is that how you're anticipating all else being equal? Obviously you're entering three new countries this quarter, but if we think about how you guys think about seasonality, do you think this might be more or less seasonal given its price point than the typical phone market and how do we think about that?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>In the phone market for our phone estimate, we looked at the three new markets that we're going into for the first time. And so that had a lot to do with our own internal estimates. And then, we looked at the seasonality of the phone market as well in the US.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Toni. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Rob Semple of Credit Suisse. Mr. Semple, your line is open.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Rob, you there? Could we move on to the next caller, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Mike Abramsky from RBC Capital Markets. Hearing no response, we'll move to our next question. We'll go to Keith Bachman from Bank of Montreal.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Any response from Keith?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Hearing no response, we will move on to Bill Fearnley of FTN Midwest.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Hi. At Apple, can you guys hear us?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We can.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>This is Bill Fearnley. You can hear me? Because you missed Rob Semple and you missed some of the other guys as well. Am I connected?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Yeah, we can hear you.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. Well, you just, we just skipped over three of my colleagues, so there's a problem with the conference call bridge. Quick question for you if I could on the iPhone. In terms of the iPhone, Tim, last call you had mentioned that you had had a couple of corporate customers that were piloting the iPhone in the enterprise. Anything that you can share there for an update? Also, any update on any cannibalization that you're seeing with the iPhone versus the iPod and then also on pilots, if I missed it in the preamble, I apologize, but are there any updates on the pilot with Circuit City? Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>On Circuit City, we're not doing a pilot with Circuit City. We're focusing on expanding with Best Buy, and I had mentioned the numbers on that earlier, we ended with 230 Best Buy stores and expected to be north of 270 by the end of the quarter. All the iPhone customers are reporting incredible customer satisfaction, and we've achieved 95% of those that said that they would recommend the phone to others and so these numbers are unprecedented in our history.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>But you had mentioned specifically enterprise tests on the conference call last quarter. Any update specifically on those enterprise tests that you were running though?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>No. I don't have any updates on those.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. And then in terms of cannibalization, any commentary you can give on cannibalization, iPhone or from the iPhone to the iPod, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We saw no obvious cannibalization prior to the new iPod announcements. Post the new iPod announcements, we really don't have enough data to comment yet. We will report again in January.</p>
+        </plist>
+      </speaker>
+      <speaker id="15" type="q">
+        <plist>
+          <p>Okay. And then one last question, if I could shift gears to the Macintosh, please. In the Pro segment, any update on what you've seen in terms of uplift from CS3 or some of the other new products that have gone universal binary? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We've seen an incredible growth in our video business driven by Final Cut Studio. We've seen an incredible growth in our audio business driven by the new Logic software that we just put out. In the D&amp;P space, the D&amp;P space is slow, I think, as buyers evaluate changing to both CS3 and Leopard.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Bill. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Rob Semple of Credit Suisse.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Hey, it's Rob. Can you hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We can hear you. Sorry about that.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>That's okay. No problem. Question on the iPod touch, and I guess the iPhone. I know the price cut came about the same time as you launched the touch. Did you see any potential cannibalization I guess away from the iPhone for people that opted for the lower price point of the Touch? I know that's difficult to quantify, but just anecdotally, did any of your consumer surveys show that?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Again, in terms of generically, we saw no obvious evidence of cannibalization from the iPhone to the iPod prior to the launch of those new products. And since the launch of those new products, we really don't have enough data. As you know, we were still in the early stages of ramping the iPod touch at the end of the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. And I apologize for this, because I was cut off at the beginning of the presentation, but did you give the CapEx number for the quarter and then your outlook for the fiscal year?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Rob, I didn't give the outlook. We'll do that when we file our 10-K in a few weeks, but our capital in the quarter was 292 million, and it would have then been 822 for the year, for fiscal '07.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. And then just lastly, guys, what do you estimate the size of the Mac install base right now, and then what percentage of that install base is on Tiger?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Let me give you two numbers, which I think are the most important to you. The vast majority of Macs shipped in the last four years are able to run Leopard. Specifically, this number is about 21 million. When we announced Tiger, there were 15 million units that were eligible to run Tiger, and we did $100 million of revenue on Tiger in the first quarter of launch.</p>
+        </plist>
+      </speaker>
+      <speaker id="16" type="q">
+        <plist>
+          <p>Okay. Thanks, Tim.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Rob. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Mike Abramsky with RBC Capital Markets.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Thanks. Can you hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We can hear you.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Excellent, thank you. More of a high-level question. Could you just talk a little bit about the drivers that you're experiencing on Mac momentum and market share shift? There's obviously several dimensions here. You've got new buyers, new product lines, new distribution, new software. Could you just give us a little color, perhaps, on which one of those are perhaps most significant to some of the momentum that you're seeing, or perhaps they all are, and some color on those that are being reflected into your guidance?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We did have an incredible quarter on the Mac with breaking our previous Mac record by 400,000 units, and it was the end of an incredible year for the Mac, because we did twice as many Macs as we did in 2004. We attribute this to, one, the fact that we're shipping the best Macs in the history of the company, and secondly, an incredible reception that we received to the new iMac that launched in August, third, we've now shipped over 120 million iPods and most of these were shipped to Windows customers who never owned a Mac. So we've introduced the Apple brand to them through the iPod.</p>
+          <p>Next, and you can see this as a result, over 50% of the Macs that we've sold in our retail stores were to customers who've never owned a Mac before, so we're, been very successful at expanding our customer base. And finally, this was the most successful back-to-school season we have ever had. So all of those together have led to a continuation of the huge momentum that now gives us -- adds up to 11 quarters out of the last 12 where we have grown faster than the market, and specifically the last several at a multiple of the market.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Are there any risks of your scale? Obviously, you've had some advantages that you've touted over some of the larger competitors, including the lack of viruses for example on your operating system and your hardware, your ability to maintain a far more high-touch buying experience. Do you feel comfortable that as you scale you'll be able to sustain these advantages while growing?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>You know, we had been growing a lot, as I've said. Our NPD share is up to 16% in the US, which is a terrific increase for us, but there's still a lot of room left for growth. And as you know, we scaled iPod from being a fairly small business to the last holiday quarter we sold 21 million iPods, and we've sold over 120 million in total so far, and so we really have an experience at scaling the products.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Last question, you've talked about the iPods shipping to Windows and that being a big driver, obviously, of Mac. In Europe, are you expecting a similar halo effect due to iPhone sales there helping other products further like iPods and Macs?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We'll see. We're just launching in Europe on November 9, and so we've got a lot to learn. However, I would point out that our European business in the Mac area grew 47% year-over-year, and this is over 4 times IDC's projection of growth for Western Europe. So obviously there is substantial evidence to say that the iPod has really helped us in Europe as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="17" type="q">
+        <plist>
+          <p>Okay. Thank you very much.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Mike. Could we have the next question, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Keith Bachman of Bank of Montreal.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Hi, guys. Can you hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>We can hear you.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay, great. Related to the last comment, Tim, the Other segment in terms of unit growth had tremendous CPU unit growth, as did Europe. How do you think about expanding your channels in those categories, either on the direct side or the indirect side, whether it be store openings or other retail partnerships to continue to capture or have the opportunity to capture some of that growth?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>Keith, the Other segment for us, in particular, is Asia-Pacific. So it did grow at 52% year-over-year. It is our fastest-growing region. And as I've mentioned earlier, we have added 2,000 store fronts to Mac distribution over the last year, and we're continuing to assess quality partners and quality store fronts to continue increasing that.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Tim, of that amount in 2000, I know on the direct side how many you've done, but can you give my any sense of what proportion are out of the U.S. geo of those 2,000?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>There are many of those that are in Asia and Europe, many of those.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Let me ask two quickies then. Tim, do you think -- you've obviously announced that you're going to do Asia-Pacific in terms of the iPhone. Do you think you can enter that market by having a 2.5G phone as opposed to a 3G phone?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>We have nothing to announce today in terms of our entry into Asia other than to reaffirm our plans to enter in 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay, the last one then, I just want to sneak one in, Peter, I was also one of the guys cut off at the beginning. Did you indicate what your cash flow from ops or your free cash flow, either one, for the quarter was, please?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Yes. Cash flow from operations was 1.7 billion.</p>
+        </plist>
+      </speaker>
+      <speaker id="18" type="q">
+        <plist>
+          <p>Okay. Thanks, guys.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thanks, Keith. We have time for one final question.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take our final question from Andy Hargreaves of Pacific Crest Securities.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Thanks. Just wondering if your strategy in terms of getting video content on iTunes has changed given the increase in available content online, and I'm talking about different forms other than professional long form content. Would you guys look to add new forms of content as you move forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="5" type="a">
+        <plist>
+          <p>I'm not sure I completely understand your question, but we've got the largest library of content available in the world for sale to customers, more than 5 million songs, over 500 movies, and hundreds of TV shows and I think our store is unparalleled to anybody else's.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>Okay. Then on the rebates, if we could touch on that real quick. Can you give us any qualitative or quantitative info on how much in sales each $100 rebate has brought back and then what the percentage of those that have been redeemed are?</p>
+        </plist>
+      </speaker>
+      <speaker id="4" type="a">
+        <plist>
+          <p>Sorry, those are not details that we're going to get into. I think customers have really appreciated the $100 credit that we have offered them. As I've said a couple of times this afternoon, we expect most people to redeem by the end of the December quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="19" type="q">
+        <plist>
+          <p>All right. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker id="6" type="a">
+        <plist>
+          <p>Thank you, Andy.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>We apologize for all the technical difficulties. A replay of today's call will be available as a podcast on the iTunes store, as a webcast on apple.com/investor, and via telephone. And the number for the telephone replay is 719-457-0820. The confirmation code is 4434584. These replays will be available beginning at approximately 5:00 PM Pacific Time today. Members of the press with additional questions can contact Steve Dowling at 408-974-1896. Financial analysts can contact Joan Hoover or me with additional questions. Joan's at 408-974-4570 and I am at 408-974-5420. And thanks again for joining us.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>That does conclude today's teleconference. We would like to thank you all for your participation and have a great day.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

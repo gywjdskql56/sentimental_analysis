@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="1139764" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Morgan Stanley Technology Conference</title>
+    <date>2008-03-05</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="corprep">Company Representative</participant>
+      <participant id="1" type="corprep">Peter Oppenheimer, Senior Vice President and Chief Financial Officer</participant>
+      <participant id="2">Peter Oppenheimer</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>Good morning everybody. It's my pleasure to welcome you to the Apple's presentation. Join me in welcoming Peter Oppenheimer, Apple's Chief Financial Officer. We're going to jump right into questions, but first I'm going to let Peter run through some of his risk statements.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you. Please be advised that some of the comments you will hear me make during this discussion may include forward-looking statements and that actual results or trends could differ materially from those statements. Information on potential factors that could affect Apple's financial results are included in our public reports filed with the SEC, including our 10-K for fiscal 2007 and our 10-Q for the first quarter of fiscal 2008. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great. So let's spend just a couple of minutes on the macro questions at the top of investors' minds this week. So just to kick it off, what assumptions are incorporated in Apple's guidance to the Street about either a global or U.S. slowdown?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. I don't want to imply that we are immune to what we're seeing in the U.S. or globally. But I think our success really is more dependent on the innovative products that we offer customers. And as I think about our growth in the market that we're participating in, we feel very good about those three in our Mac business, switching people from Windows, beginning to scale the iPhone, and in our iPod area, we're off to a great start with the iPod touch in the December quarter. We feel very good about that and the international share gains that we saw in the December quarter. But I'll make a few comments about, first, December, and then a little bit on March.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Because our business performed exceptionally well in the December quarter. Our revenues in the United States grew at 27% in an economy that was up 1%. And as you look at the business year-over-year, we grew in the December '06 quarter at 21%. So we grew faster this year than we did in the year-ago December quarter and I don't recall anybody talking about economic problems in the year-ago quarter.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Right.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Our Mac business performed exceptionally well. We grew at 43% in the U.S., very close to how quickly we grew around the world and that was four times the market rate of growth. And our retail stores had an outstanding quarter. We saw 10 million more people, year-over-year, in our stores this year and most of our stores are in the United States. And we don't have 1,000 stores, we had about 200 in the quarter. And the stores sold over 500,000 Macs in the December quarter and more than half of those were to people that had never owned a Mac before and that percent had actually grown from the prior quarter's. As regard to March, we gave you guidance for 29% revenue growth and that's faster than we did in the year-ago March quarter of 21%. So we feel very good about the business and how it's performing and I think our results really show that our strategy of innovation, our great products, are working, and we're hard at work on a number of new things.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And Peter, what's your view around how slower unit growth or demand would impact pricing in the markets that you play in? And as a follow-on to that, how proactive is Apple willing to be?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Again, our strategy is to provide customers great innovative products and I think it's working. And with the results that we saw in December, we're gaining share in each of our markets. We grew at about four times the market rate of our growth in the United States, close to three overall in Mac. We gained share internationally on iPod, maintained our very high share in the U.S., and we're off to a great start with iPhone. But you did see that &#x2013; or you may have seen that we've reduced the price of the iPod shuffle a couple of weeks ago. We believed that there would be elasticity at a lower level. We reduced the price from $79 to $49 for the 1-gig and introduced the 2-gig model at $69. We'll report to you in April on how we did, but we did it believing we would see elasticity.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And then lastly, what is Apple's internal IT CapEx spending plan for 2008 versus last year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. We expect to spend about 1.25 billion in CapEx in '08, about 400 million in retail and about 850 million in the other parts of our business, including manufacturing-related IT systems and facilities, and that's up from about 825 million in fiscal '07. So it's growing by a little over 400 million for all the right reasons, growth in our business and the confidence we have in what we're doing and wanting to invest in the future.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great. So let's shift focus to some of the product segments starting with iPod. The product has been in the market for six years and with significant success both on market share in the U.S. as well as internationally, growth has begun to slow. Low-end functionality has been integrated into handsets, arguably the U.S. penetration rates are much higher than say five years ago. So where are the incremental growth opportunities as you look forward?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. First of all, we set a record for iPod shipments in the December quarter at 22 million. And they grew 5% year-over-year. Let me address your questions first from a product perspective then geography and I'll give you, I guess, my view on saturation. From a product perspective, in the fall of '07, we did really not update the shuffle, we changed colors, but we didn't change the form factor from what we did in the prior year, where we updated it to the most wearable iPod we had ever shipped and had really strong results. And as a result, we were down about 17% in the December quarter year-over-year in the shuffle space globally and actually little more in the United States.</p>
+          <p>And as I've discussed a moment ago, we've addressed that from a price perspective believing that there would be elasticity and we'll talk about that in April. But we did refresh the nano and brought video into it, the Classic and introduced the iPod Touch. and did very well in the high-end of our line, driving growth.</p>
+          <p>Our big objective, though, for the December quarter was to introduce the iPod touch, and this was our first WiFi enabled iPod, we view it as a platform. It came in at really the high end of the price points and we felt we really got it off to a great start and that is in applications of MacWorld in January. And as a result, ASPs for the iPod line increased and revenues grew by 17% in the quarter, which was the fastest revenue growth we've seen in a year in the iPod line, and that was a result of the successful introduction of the Touch.</p>
+          <p>From a geography perspective, our objective was to maintain our very high share in the United States, which we did at about 70% in to gain share internationally, which we did. Our share in Japan, and Australia and Canada, the UK, tends to range from about 50 to 70%, it's about 70 in Australia, the other countries are 50 to 60 range. But we don't have that level of share in the other Western European and Asian countries. We're number one in every country that we can get data for. But our market share tends to be in the 15 to 30% range, and we saw strong increases year-over-year, which makes me feel very good. And again, our strategy was to gain share internationally.</p>
+          <p>In terms of saturation, we don't view the market as being saturated. The growth that we saw internationally is not a characteristic of that, and our research shows that in the United States, about 40% of the iPods that were purchased were to people that didn't own an iPod before. Again, not a characteristic of a market that we would view as saturated.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>So in that context, going forward, given your focus and the product portfolio, is unit growth really the right metric to focus on or does it become increasingly revenues and ASPs and the content that those products pull?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>I think revenue growth is very important. We're an innovator and we've got a number of ideas in our iPod line for innovation. But I want to tell you that our objective is to also gain share internationally. I'm pleased with the results we've seen in the last two years, but as I said, in most Western European and Asian countries, we do not enjoy the share today that we do in some of the higher share countries.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great. Now shifting focus to the Mac business. Mac units grew double-digits for the past seven quarters. In December was the strongest unit growth you have seen in a couple of years. The big concern is that with U.S. consumer demand slowing, that that may impact the business. How important is stable U.S. consumer in hitting your targets in the Mac business of growing faster than the overall market?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well, let me address your question in terms of our products and our geographies again. But we feel very good about each of our geographies in each of our markets. We've got strong momentum in all those areas, I think driven by the great products that we're offering. And we've got just a positive confluence of factors that we've been working on for a number of years that I think have driven the success that you've seen. And in 12 of the last 13 quarters, we have outgrown the market by typically two to three times. But as I think about this today, we are shipping the best hardware that we ever have, whether it's the iMac, the MacBook, or the MacBook Pro, we just introduced the MacBook Air, we're excited about that.</p>
+          <p>Mac OS X &#x2013; very secure, very stable, great features, it's a huge asset for us. And the applications that we write, including iLife, which is an integrated suite of products to manage your digital lifestyle, our research shows is a big reason why people are buying Macs. I don't think it's hurting us that you can run Windows on the Mac, whether it be with Boot Camp or using third-party applications such as Parallels or Fusion. We've also worked very hard on the point of sale, whether it be in our retail stores or by adding quality points of distribution such as Best Buy, and running great advertising. And I don't think the iPod is hurting us either.</p>
+          <p>Internationally, doing well, Asia for several quarters has been our fastest growing region, grew at 59% last quarter and we had a great quarter in Japan. In terms of the market segments, we feel good about all the segments, including enterprise.</p>
+          <p>But I'll talk for a moment about higher education, because that's doing incredibly well for us. We were very pleased that it was reported a week or so ago that Apple became the number one supplier of notebooks to higher education in '07. In The Student Monitor, a research organization that looks at what students &#x2013; college students are likely to buy in a variety of areas, that's recently reported that intention to buy Mac has grown 19 points year-over-year, from 25 to 44, so that makes us feel very good. And we had the best back-to-school season in September that we've ever had.</p>
+          <p>And in the back-to-school season, we saw, in some cases, 70% of the people going back to school with Macs. For example, at the University of Michigan, they reported to us that it was 72%, Princeton 60%, Penn State 55, Duke 47 and next door in Arizona, at Arizona State, 43% of students came with Macs. So I guess to sum it up, we feel great about our geographies, we feel great about our market, our products and we're working hard to grow share.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Good. So let me ask you a couple questions as relates to where you were investing to expand the regions and the segment you touched. First, how many international points-of-sale do you have today versus a year ago and do we look for this to continue to grow?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Today, we're at about 9,500 points of distribution for the Mac around the world, about 7,500 of those are outside the United States, and that is up by about 2,000 points of distribution from this time last year. We are selectively adding distribution for the Mac, where we think customers can have a quality experience. And you are seeing us do that here at Best Buy. We would expect to be in the late summer or fall at 600 Best Buy stores that will be carrying the Mac. We are increasing the store-within-a-store program, not only at Best Buy but internationally. We're doing it with FNAC in France and Media Markt in Germany and Future Shop in Canada and many places around the world. We're seeing growth in the Premium Reseller Program as well. And, of course, our online store is open in 26 countries around the world. So we feel very good about where customers can buy a Mac today all over the world.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And how many Apple-owned stores you expect to open in 2008? What's the mix U.S. versus international compared to '07?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. We expect to open 35 to 40 of our own retail stores in fiscal '08. This is up a couple of stores from what we did in fiscal '07. In fiscal '07, we opened five international stores, and in fiscal '08, I would expect, within the 35 to 40, the international mix to be a little closer to half the stores, and we're going to have our first store in Beijing this year. We're going to open up Australia and you'll see us add to the great start that we have in Canada and the U.K.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And you mentioned enterprise as a segment that you're focused on. How many commercial salespeople do you have today versus a year-ago, and do you continue to hire?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. We are. We have today in the United States about 170 people on enterprise team and we're adding to that as we see sales grow and we're also adding to the international team as well. And we're seeing success today in enterprise, I believe largely because of Mac OS X. Again, very secure, stable, plugs into corporate networks and offers customers a legitimate choice to Windows. And I'd like to give you a few examples of where we're seeing success. First in customer situations where they have intense computing needs. So, bioscience, where an organization might want to see how a drug would affect the human body, or oil and gas were to drill for oil or gas underneath the Earth's surface. The military and organizations supporting the military or internet companies.</p>
+          <p>Mac OS X, again, secure, stable. You can buy groups of either Mac Pros or Xserves and cluster them together to create very efficient and capable computing systems. Government organizations, we've got installed bases that are 10,000 or greater at places like the Department of Energy or NASA or Lawrence Livermore labs, so we're seeing growth in other departments. And, of course, mobile professionals as well, who want to have the advantage of our great hardware and multimedia capabilities. So I don't really think that Apple's success with Mac sales is going to be defined in how well we do in the enterprise. It's a good opportunity for us and we're doing well there. We're investing, we're growing. And I can't get into too much, but tomorrow we're going to talk a little bit about iPhone in the enterprise as well at our event on campus.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Good. Now before we move on from the Mac, you mentioned Boot Camp as a driver you can run more applications on the Mac if you run Boot Camp. Do you feel like this takes away the historical limitation of Apple's potential market share?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well. I think it certainly makes some customers feel better about moving to the Mac because it's an insurance policy or in some cases where customers need to run a Windows application. And we're beginning to see the benefit to that. For example, as I was walking in the room today, I've seen several MacBook Airs, and we recently had an investor meeting at Apple, just a couple of weeks ago. And it was a small group, but three investors came to Apple with MacBook Airs. And I think that whether it's Boot Camp or Parallels or Fusion, I think certainly helped that.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great. So moving onto iPhone, Apple has successfully signed on four large carriers in different regions. Are you willing to look at different distribution or carrier arrangements in order to better penetrate additional countries or is it important for Apple to maintain consistency?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>We've just begun in this market and we're off to a great start. In our first 200 days, we sold 4 million iPhones. Customers are loving their iPhones. As a matter of fact, the iPhone is actually our highest rated customer sat product that we're shipping today. Customers are just loving it. We entered this billion plus unit market, believing that with our skills and hardware and software, we could make a real difference and offer customers very innovative products. And again, we're off to a great start, but we're learning. We're not wedded to any one particular way to go to market. Our objective is to drive scale and to take market share. We're going to enter more European countries this year. We will enter Asia and we remain very confident in our goal of achieving 10 million iPhone sales in 2008.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Now there's been a lot of discussion around the variance between what you've shipped and what your carriers have pulled on to their network. Let me ask you, do you view this as an issue or does it tell you something else about the opportunity?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well, let me first say that in the December quarter, we weren't able to reliably estimate the unlocking number because of the &#x2013; really the gift-giving phenomena that we saw. And for example, we're seeing that some customers that received or purchased an iPhone, and the people that received it as a gift, are waiting for contracts to expire before activating the iPhone. But we've said that we believe this is occurring at a significant rate and just hard to estimate. We've been, as of today, shipping the iPhone for 250 days.</p>
+          <p>But we've planned to be in this business for many years and so our perspective is definitely longer term in nature, and we believe that the unlocking is occurring because of unprecedented demand for the iPhone. And it's probably easier to think about what countries the iPhone isn't being used in today around the world than where it is. I'm not aware of places that I could name that it isn't, it's just unprecedented demand. And so we view this, to answer your question, as a positive indicator in future demand and interest in the iPhone. Our horizon here is long and again we're going to enter more European countries and enter Asia this year and this gives us confidence in what we're doing. I think all really just starts with the phenomenal products that we're offering.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Good. Fair enough. Shifting focus to some of the financial questions. We talked about the international opportunity not just in iPods, but in Macs and iPhones and other Apple products. In the December quarter, Europe was now more profitable than the U.S. on an operating margin basis. Japan is now very close, if not in line to the domestic market. Are these profit levels sustainable, even though you have to go out and use the channel more outside of the U.S.?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well our sales in Europe, Japan and Asia-Pac in the December quarter grew 44, 40 and 53% respectively. And this includes the online stores that are open in each segment. So this rapid revenue growth is certainly a positive in driving the margins that you spoke about. But also our spending levels vary in countries and the weaker dollar does not hurt the segments as well. But internationally, we are adding quality and direct distribution. As I said before, we're going to open more stores of our own and we're continuing to offer customers a great experience online, and so our objective is to grow our sales internationally and take market share in each of the product areas that we're focused on.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>And it sounds like, from our conversation, investments levels likely go up, not down in &#x2013; over the next twelve months.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>We remain confident in what we're doing and we're investing both in terms of capital and operating expense in the business.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. Shifting to the P&amp;L and cash flow, over the last two quarters, free cash flow has been more than 50% greater than your net income or your earnings. How do you measure the business internally? Do you look at a pure earnings number or do you adjust and look at a cash number?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Let me first address, I think, why this is occurring and then I'll answer your question. We have traditionally generated more cash than our GAAP earnings as a result of our business model and strong asset management with our negative cash conversion cycle. In addition to this, I think you know, we're doing subscription accounting for the iPhone, which has been another factor in looking at the difference between our cash flow and our GAAP earnings. So as a result of these things internally, we certainly watch both. We are very, very focused on asset management. That hasn't been the case at Apple for many years and that focus hasn't changed. And we're also focused to growing our top and bottom lines as well, so we watch both.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. You've probably been asked this question several times over the past week, you now have over 18 billion of cash, approaching how much cash Microsoft has on its balance sheet, a decent portion of that is available to you in the U.S. You have been cash flow positive since 2001. And so what are your priorities for that cash balance? Is anything off the table in terms of dividends or buybacks or acquisitions over time?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Well, we're continuing to invest in the business. We are doing acquisitions. They tend to be small and we've talked a couple of times already about the capital expenditures we're doing in opening stores. So we're confident about what we're doing. We're continuing to invest in the business, but I think for all the right reasons, the cash balance is growing. We do discuss stock buyback and other forms of returning cash to the shareholders, with the management team and with our board, but have wanted to retain the cash for flexibility to invest in the business or look at acquisitions. And that philosophy has not changed, and it's where we are today, but that doesn't mean that it couldn't change in the future. But I want to be clear, as Steve said at our shareholders meeting yesterday, we don't have any current plans to do a stock buyback.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. If I look at research and development expense, it's up over 30% over the past couple of quarters. It's one of, if not the highest growth we've seen in Apple's history. Is there an argument that this is just a function of a broader product phase and faster product cycle or does it indicate to us something about the incremental innovation we should expect from Apple?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Okay. Our R&amp;D expense is very influenced by our head count and it's growing. We are adding more very capable people into our engineering teams and today have about 3,500 people on the engineering teams at Apple. I think you need to be a little careful at how you look at the change in R&amp;D, particularly recently on a sequential basis, because we've been capitalizing software development under the accounting rules. In the December quarter it was small, but in the September quarter it was 22 million, but you're right. On a year-over-year basis, it has increased, again, I think for all the right reasons. What correlations can you draw from the product cycles? I think you need to be a little careful. Some products take a little longer to develop and some are a little shorter.</p>
+          <p>We talked to you in January a couple of years ago about &#x2013; the iPhone was 2.5 years under development and all the engineering teams at Apple worked on it. But we're also very efficient in our investment in R&amp;D as well. Mac OS X is not only on the Mac, but it's on the iPhone and iPod Touch as well. So I think we strike just a wonderful balance of having very creative, talented, focused people that are producing very, very innovative products extremely efficiently by industry standards. And I would just end by saying that we're continuing to invest in this area. We're hiring more engineers. We are shipping the best products that Apple has ever shipped, and please be assured that I am very confident and excited about what is in our pipeline that I can't share with you today, but will emerge over time.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. Let me stop there and just see if there are any questions in the audience before I continue. Any questions? One misperception, and tell me if you don't agree, that I see in the market is people think of Apple as a hardware company instead of a software company. So I guess the first question is, how do you view Apple? The second part to that is, if Microsoft earns a 36% operating margin, even other consumer hardware companies like Garman and Nintendo that offer great software in the past year have earned mid to high 20% operating margins. So could you benchmark Apple against and what limitations do you have in the margins front that don't apply to the companies I just walked through?</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Let me start with how I think about Apple. It's the most wonderful company in the world that you could ever be a part of. I love coming to work everyday. There's more than 25,000 of us that I think would tell you the same. We are the only company that &#x2013; we're a little biased &#x2013; but that we're aware of that I think is truly world-class in hardware development and software development. I think there is companies out there that are good at one or the other. I don't know of another company that is world-class in both and we are all about just creating innovative, wonderful products for customers that really integrate hardware and software together. And so, I think that's really the answer to your first question. In terms of our growth, I couldn't be happier with the growth we've seen. Just four years ago, Apple's revenues were 6 billion. In fiscal '07, we ended at 24 so added 18 billion of top line and you all certainly have your views for the year that we're currently in with expectations of growth and I feel very good as the Chief Financial Officer that we've managed both sides of the equation and shown strong growth and profitability along with our revenue growth. It's a competitive world out there and I feel very good about the decisions that we've made and the balances that we struck.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Okay. Let me see if there is any questions before I continue. In the back?</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker type="q">
+        <plist>
+          <p>Can you comment on hardware as a Service initiative?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'm sorry I didn't -</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can you comment on your hardware as a service initiative, announced a few weeks ago at your office?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>I'm sorry I don't understand the question.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hardware as a service &#x2013; basically rather than requiring physical upgrades to the device, you could offer the consumer to upgrade the software on the device over time.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>We, through our software update capabilities, will on Mac and iPod do bug fixes. So with iPhone, we are providing customers new features and new applications as they become available. And we do that seamlessly through our software capabilities.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Is there another question in front here?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can you comment on &#x2013; I don't know if there's been any discussion yet, but where you are with the AppleTV and sort of how that's rolling out? And I would just make one suggestion of that. One of the things that I &#x2013; when you go into a store that you don't really notice is &#x2013; one of the things that, for me, sold the AppleTV and sell it to all my friends as simply having the picture roll on the display. I mean that's all it takes &#x2013; absent the rental or absent anything else. And I've been trying to communicate that to Apple over time and through e-mails. But it's that simple.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Okay. I will &#x2013; I'll take that back to our store team. We are out with AppleTV take 2. We think we have it right this time. We did not get it right with the first take. But with AppleTV 2, we have a completely new software interface that will allow you to rent movies directly from the iTunes Store, bypassing your computer, and soon, we will have 1,000 movies available to rent, along with many podcasts that you can view and there's wonderful podcasts that are available from National Geographic and Discovery and many other folks and it's a lot of fun. We are careful about the expectations we want to set here. We're still viewing this as a hobby. We're trying to create a new market here. We're not trying to be your DVR or your &#x2013; necessarily your TiVo and really try to give you a great experience with your multimedia or things that are out there in podcast or as I said on iTunes.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Any other questions, here?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Just wanted to hear your thoughts on the business model around content. And sort of the common rant is that Apple doesn't want to make money or loses money on content, it drives hardware sales. I sort of take that for granted now but I'd like to hear your thoughts on that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. We're running the iTunes Store at a little over break-even. Our view is that we want to make our money selling hardware, either iPods or Macs or iPhones and accessories, and are choosing to not make a lot of money on the content. That's been our strategy. It's worked incredibly well for us and I think it will in the future.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can you comment &#x2013; I know that my company at least is looking at the iPhone as a competitive device to the BlackBerry or some other type of device. Can you sort of tell me where you are in that evolution and where you are solving the bottleneck of security and that sort of thing and sort of how that models and not necessarily specifically models out, but where that is in sort of its evolution turnaround?</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. We believe that the iPhone is a great phone for all parts of the market including enterprise. And we are having an event tomorrow on campus, where we're going to talk about the software roadmap for the iPhone, including the SDK and the enterprise. So if you could just hold your question for 24 hours, I think you will hear some neat things.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Any last questions? There.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>
+            <mark type="inaudible" />
+          </p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="a">
+        <plist>
+          <p>Sure. It is a focus area of the company. I'm very proud of the results that we have achieved. We are leading the industry in reducing the size of our products, including our packaging and we are much more efficient in how we're delivering products as a result to customers. We are moving very quickly to get certain chemicals out of our products, again leading the industry in that area. We have recycling programs that we offer around the world so that consumers- or any of our customers &#x2013; can safely dispose of any consumer electronics products. And for the Apple products, when those are dismantled, a very, very high percentage of those are actually able to be reused. And so that's another thing that is in our thinking when we're engineering products.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Great. It looks like time is out. Thank you very much for your time today. I appreciate it.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

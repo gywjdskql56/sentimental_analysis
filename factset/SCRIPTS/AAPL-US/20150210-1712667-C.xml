@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="1712667" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Goldman Sachs Technology &amp; Internet Conference</title>
+    <date>2015-02-10</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="analyst" affiliation="Goldman Sachs &amp; Co." affiliation_entity="05KFM2-E" title="Analyst" entity="05P83D-E">Bill C. Shope</participant>
+      <participant id="1" type="corprep" affiliation="Apple, Inc." affiliation_entity="000C7F-E" title="Chief Executive Officer &amp; Director" entity="05F520-E">Timothy D. Cook</participant>
+      <participant id="2" type="corprep" affiliation="The Goldman Sachs Group, Inc." affiliation_entity="002615-E" title="President, Chief Operating Officer &amp; Director" entity="008FVR-E">Gary D. Cohn</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>All right. Good afternoon. Hopefully everyone has got their lunch already. I'm Bill Shope, IT hardware analyst at Goldman. Very pleased on behalf of the Goldman Sachs technology media and telco team to welcome Tim Cook, Apple's CEO, once again to our conference this year. I'm also happy to introduce Goldman Sachs President and COO, Gary Cohn who will be moderating the keynote this year.</p>
+          <p>As most of you know, Apple is coming off of a record quarter and holiday season where the company sold 74.5 million iPhones and generated almost $34 billion in operating cash flow. That's in a single quarter. So we're excited to hear more about that performance and more important how to think about the opportunity from here.</p>
+          <p>So with that I'll pass it over to Tim and Gary. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thanks, Bill.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Welcome, everyone. Tim, let me welcome you here as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>It's great to be here. I'll start right in, I know you're going to say something right after I finish this. I won't disappoint the lawyers in the room.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>I'm sure you can't guess what I'm going to say.</p>
+        </plist>
+      </speaker>
+      <speaker id="2">
+        <plist>
+          <p>Right. I could probably repeat it verbatim, but I would &#x2013; I would use the wrong name in there's so I'll let you say it.</p>
+          <p>So Tim you joined Apple in 1998, became CEO in 2011. These are some impressive stats that I'm lusting after: since you became CEO, stock price is up 120%, annual revenues up 56%. You've sold 750 million iOS devices and you've returned over $100 billion to shareholders, not a bad start, right?</p>
+          <p>So Tim with that, I want to welcome you to the GIR Technology &amp; Internet Conference and thank you for being here. I know before I get into the first question, you would like to make the lawyers and the SEC happy.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Yeah. Before I do that, thanks everyone for joining and thanks very much for Goldman for having us here.</p>
+          <p>First, I've got the Safe Harbor statement that all of you can probably memorize in your sleep by now. Some of the comments you will hear me make during this discussion may include forward-looking statements and actual results or trends could differ materially from those statements. Information on potential factors that could affect Apple's financial results is included in our public reports filed with the SEC including our 10-K for fiscal 2014 and our 10-Q for the first quarter of fiscal 2015.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="2" type="q">
+        <plist>
+          <p>Great. Thanks, Tim. So you just reported your strongest holiday quarter ever, stock's up over 48% since the start of 2014, not including today's move. So far, Apple seems fairly undeterred by the law of large numbers. In your opinion, what are some of Apple's biggest accomplishments last year?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We're fortunate to have had a good year, and but maybe the most important answer of that, first would be that we don't believe in such laws of large numbers. This is sort of an old dogma, I think, that was cooked up by somebody and Steve did a lot of things for us for many years, but one of the things he ingrained in us that that putting limits on your thinking are never good. And so, we're actually not focused on the numbers, we're focused on the things that produce the numbers, right?</p>
+          <p>And so, if you look at the accomplishments over last year, we're a product company. And our most important thing is to make great products. And we feel great about how we did last year. We came out with iOS 8. It was absolutely our largest release since the App Store was created. We came out with Yosemite, which was our latest Mac operating system with a total new look, lots of new apps. We had the biggest advancement ever in the iPhone with iPhone 6 and iPhone 6 Plus. And we, from an operational excellence point of view, sort of hit the ball out of the park on the ramp and rolling those out to countries. We brought Touch ID to the iPad and Touch ID was a really foundational technology that we invented and began to roll out the previous year and we're really happy to get that into the iPad along with making it even thinner and lighter and more powerful for people.</p>
+          <p>And the Mac, the Mac kept humming. And despite the industry being really awful, the Mac has been growing and gaining share for a long time. And so on the product front, lots of things to feel great about.</p>
+          <p>As important are those, are the things that we do to set ourselves up for the long-term. And last year if you look at some of those things that we'll produce over the coming years, we developed our own programming language called Swift. And what Swift does is significantly make our ecosystem even stronger because you can write apps even faster, really complex apps. You and I could even write an app.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>I don't know about that. [Laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>No, I am serious. We came out with HealthKit. And HealthKit I think is going to be profound because it enables you to take all of the information from different apps and if you desire to you can share that information with a physician, you can share it or you can place it in a way that you can begin to correlate the data and find out some pretty interesting things about your health and be able to monitor it.</p>
+          <p>We also came out with HomeKit and HomeKit enables you essentially to control your home with Siri. And so whether it's lights or your door or your thermostat or whatever it may be. We also came out with CarPlay and so we've taken iOS and extended it into your car, into your home, into your health. All of these are really critical parts of your life and all of us &#x2013; none of us want to have different platforms in different parts of our lives. We won't want seamless kind of life. And so I think that is huge for our future, it's not every day you can plant that many foundational technologies.</p>
+          <p>We also did a lot of things to further our global footprint. And so, if you look at what we've done in China, we've opened more stores there. We've opened a lot more distribution there. Through the world, we've opened almost 20,000 new points of sale. We've opened 27 new Apple stores, a lot of flagship stores. We extended the online store in even more places and so, in the emerging markets, we saw phenomenal growth, over 50%. These are huge numbers, and we have over $50 billion of revenue in emerging markets, including $38 billion in China for the calendar year. So that was certainly a high point.</p>
+          <p>We partnered with China Mobile, we also partnered with IBM to extend our reach into enterprise, and I think we'll begin to see that relationship bear fruit this year as apps have started to roll out and so forth. And for everyone at Apple, we're all &#x2013; we're all there to make great products and really enrich people's lives, and we believe in leaving the world better than we found it.</p>
+          <p>And so, along those lines, our greatest contributions to society will always be through our products, because we can empower people to do some incredible things there, but we also put our energy into a program called ConnectED, and are working with the administration on bringing our technology to kids in very underserved schools that desperately need technology.</p>
+          <p>We partnered with the Global Fund in, with a focus on eliminating the transmission of AIDS from mother to child, made a huge &#x2013; we're up over $100 million in donations here, and this saves millions of lives.</p>
+          <p>And we did a lot for the environment last year as well, adding on to some things we were doing, and I'd like to spend just on a second on this. We know, in Apple, that climate change is real, and our view is that the time for talk is past, and the time for action is now, and we've shown that with what we've done. And so, we're now running all of our data centers, which require lots of energy, for those of you that understand data centers. All of them are run off renewable energy and just today, we're announcing our biggest, boldest and most ambitious project ever.</p>
+          <p>We are building, or partnering with First Solar, to build a solar farm in Monterey County, so not too far from here, it's 1,300 acres. It's enough power for almost 60,000 California homes, and it's enough to provide renewable energy for all of our new campus, that you and I were just speaking of a few minutes ago, Apple Campus 2, every other office we have in California, all 52 retail stores we have in California, and our data center in Newark, and so it's $850 million investment.</p>
+          <p>And I think, just to make this point, because I know this is a financial conference and I'm sure some of you are interested in &#x2013; well, is that a good use of funds or not. And quite frankly, we're doing this because it's right to do, but you may also be interested to know that it's good financially to do it. We expect to have a very significant savings, because we have a fixed price for the renewable energy and there is a quite a difference between that price and the price of brown energy, and so we're thrilled to continue on this course of doing things that really leave the world better than we found it.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>That's &#x2013; it's phenomenal what you've accomplished with the company, but more importantly, we at Goldman Sachs also respect what you've done socially, environmentally, those are just as equal responsibilities of a great organization.</p>
+          <p>So, you've covered a bunch of the drivers of growth in the long-term. Let me hone in on one that you didn't touch. Let's talk about Apple Watch. I think Apple Watch is coming in April. What makes Apple Watch different from any other watch or smart watch that's out there we've seen in recent years?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's a good question. If you think about &#x2013; for those of you that can remember the MP3 industry, before the iPod. We weren't the first company to make an MP3; there were lots of companies in this. You may not be able to remember that, but there were lots of them out there. They weren't used very much. They were fundamentally too hard to use, and the user interface was really bad and you almost needed a PhD to use these. And so they weren't &#x2013; they're not memorable. They didn't really move the dial.</p>
+          <p>And the tablet business was kind of like this too. There were lots of tablets shipping when the iPad came out. But there was nothing earth-shattering. There were very nichy kind of applications, you probably weren't using one like you're using now.</p>
+          <p>And so I see the smart watch category very much like that, is that there are several things that are called smart watches that are shipping. But I'm not sure you could name any, maybe you could. I'm not sure the audience could name very many. And certainly there's been none that have changed the way that people live their lives.</p>
+          <p>And so what we want to do at Apple, that's our objective, we want to change the way you live your life. And just like this iPad has changed the way you work and hopefully the way you live, and the iPhone has done that. We see the Apple watch doing that. So I've been using one, and I'm actually using wearing one now, but I wear it all the time actually. And I think that one of the biggest surprises people are going to have when they start using it is the breadth of what it will do. And so obviously it's a precision time piece. And just like you're wearing a watch and you probably think it looks really cool, I am not sure, I do. But...</p>
+          <p>[Audience laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>But my wife gave it to me, so it stays on my wrist.</p>
+          <p>[Audience laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The look of this is fantastic, of course there is lots of different ones and so, you may look at this and you might want a different color band or a different type of band or you may want an 18 carat gold one, or whatever you may want. There is &#x2013; the variety is incredible. The customizable nature of it is incredible.</p>
+          <p>You'll also find that there is some new innovative ways to communicate, that you didn't have before. And so, I constantly use Siri with my watch and ask different things, and all of the sudden there it's just there. You can do things like, get notifications across your watch.</p>
+          <p>And so right now, if you are like most men, you carry your phone in your front pocket. How many of you guys do that? I see too many men in this audience by the way, there needs to be a lot more women, a lot more diversity here.</p>
+          <p>[Audience applause]</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Thank you. But most men do that. They put it here and so, you can imagine in a meeting, how distracting it is to watch everybody do this all the time. And here it's kind of &#x2013; it's a little subtle. And if you are interested in keeping up with a sports score to the financial markets to whatever it is, it's like this, the watch knows you are looking at it and it comes on. If I am not looking at it, the watch is off, which can be very important.</p>
+          <p>And so, there is so many things like that and the third party apps, the things that third parties are working on, I am super excited about. And so, I think it's going to be &#x2013; everybody is going to have their favorite thing, just like when the app store came out and you remember, the tag line, "There is an app for that," and the way you felt with your favorite apps, and so you are going to have a feeling like that.</p>
+          <p>I use it in the gym constantly to track my activity level, my exercise, how many &#x2013; how long I am exercising. If I sit for too long it will actually tap me on the wrist to remind me to get up and move because a lot of doctors believe that sitting is the new cancer, right? And arguably activity is good for all of us and so if you haven't moved within the hour, ten minutes before the hour it will tap you and it's been amazing watching this at Apple because you'll be in a meeting and we have a lot of employees now that are using the watch and about ten minutes before the hour everybody will start standing up and it took a little while to get used to but it's actually very good.</p>
+          <p>And so there's just an enormous number of things that it will do and I think you're going to find it's something that you're going to think, I can't live without this anymore and you're going to be deciding you may not want to give up that real estate for that particular watch anymore.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So, Siri is going to be on my wrist, right?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Siri is on your wrist.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So I'm going to not be able to get away from someone yelling at me ever.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>[Laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Golly, okay. Let's go back to a little topic you talked about before. Historically, many people have viewed Apple as a hardware company. More and more of what you're doing today is in the software and service world. And when you talked about the future, you talked about the value differentiated being software. How significant is non-hardware going to be for Apple's growth in the future?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>You know, it's been &#x2013; we haven't been a hardware company for &#x2013; since I've been with Apple. And I'm not a historian, so I can't tell you about the beginning of time, but I don't really think Apple was ever a hardware company even at the beginning of time. So I think people that know Apple well and are users of our products, I don't believe any of them would call us a hardware company. They're &#x2013; when they buy a Mac in the early days and today, they're buying an experience and that experience is the integration of hardware, software and services. And that's clearly true with the iPhone and iPad as well. It's true with the iPod. You could imagine the iPod without the iTune Store or you actually can't imagine it probably anymore. So, it has always been a key part.</p>
+          <p>Now financially, we report services together and the sum of all these things which things are included in that like the App Store and AppleCare and so forth and our media sales. This adds up to like $18 billion for the last year.</p>
+          <p>However, if you really think about it, when we sell an iPhone, there is a great deal of value in the operating system and then there is value in the updates that come thereafter that keep the phone fresh, so we don't spend any time internally apportioning all of that to software and services. But if we did, that category would be even larger than it is. And so the net of all that is that, the magic in Apple is that we do all of them, hardware, services and software. And the real magic comes up where they integrate and sort of owning the whole widget is the reason we're able to deliver the kind of customer experience we do.</p>
+          <p>So, all of these will always be important to us, they're all important. It's not that one is more than the other. It's doing them all and doing them all at a very high level and integrating them, but it's what produces the magic.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So, speaking one of your newest services, I know you're pleased with Apple Pay.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>What has been the acceptance of Apple Pay? How are consumers responding to you? How have you felt about the rollout of Apple Pay?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's gone faster than I thought it would and much faster actually. And the reason is that &#x2013; the reason that I thought it would a bit slower than this is that when you're going into the holiday season, most retailers don't want to change anything around their point of sale. And we found &#x2013; however, we found a lot of significant reception to get it going quickly and by December, $2 out of $3 that were spent in stores with contactless payments, on contactless payments, were Apple Pay. And this is by the three major networks AmEx, Visa, and MasterCard. So, it's essentially the overwhelming vast majority of the market.</p>
+          <p>But maybe what's even more significant than that is that there's so many retailers that are approaching us about getting signed up. We have the bank piece at a very great level. We have 2,000 banks and credit unions now going and more coming, although that's well over 90% of the market. So, the focus in the United States is very much on merchants.</p>
+          <p>If &#x2013; we did a walk around earlier &#x2013; around the hotel, and if you do that, you'll find that you can buy a coffee at Peet's, you can buy your lunch at McDonald's or Subway, you can buy cupcakes at this little cupcakes small business place down a few blocks from here, you can go get to Foot Locker and buy the latest Nikes, you can go to Bloomingdale's and so sort of large company with Bloomingdale's, Macy's, to a toy store called Jeffrey's a few blocks from here, many, many retailers, and in fact there's a vending machine in the lobby that you can use &#x2013; and now there's 200,000 of these around the U.S. &#x2013; that you can buy water and sodas and snacks and these types of things. They're also in laundromats.</p>
+          <p>And so the rollout is going much faster than I would have thought, and I think it's truly profound. There are also some retailers that are taking it even further, where they're innovating around their own customer experience, like Panera Bread now allows you to order in advance, so you can go in and pick up your lunch. It's made &#x2013; it's done before you get there, and you're paying with Apple Pay. And so, they're trying to &#x2013; taking it all further, and I love to see these.</p>
+          <p>JetBlue just announced this morning that they will accept Apple Pay beginning mid- this month. And they're going to roll it out across all of their flights between now and three months or so from now. And you can buy from &#x2013; your snacks to your drinks and all the other things that you do on planes, your entertainment, et cetera.</p>
+          <p>We think all of these things are great, and I see them happening faster and faster and faster. This is an example, back to your other question, where this was only possible because we could control and design the hardware, the software, and the service. You can imagine trying to do this with several different companies, you would be pulling your hair out doing it &#x2013; you don't have much left, but you'd really be doing that.</p>
+          <p>[Audience laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah. Some of us are follicly challenged. So, in the follow-up on the Apple Pay question, most of the competitors you have in the traditional pay space, one of the things they're doing is collecting a lot of data on their customers.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>You're not collecting data on your shoppers. How do you think about that? How do your competitors think about that? How are your customers responding? Is that a big competitive advantage?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well for us, it's a value. It's first and foremost a value. We believe that customers have a right to privacy and that the vast majority of customers don't want everyone knowing everything about them. And so, that's first and foremost what it's about.</p>
+          <p>When we make money when you buy one of those, we'll make a little bit of money. And &#x2013; but it's a simple, straightforward business model. You are not our product; that is our product. And so, that's the way we kind of look at the world, and we think that that's the way customers want us to look at the world. And so, if you take this and think about the areas that are emerging now where, on your smartphone, there's your financial data.</p>
+          <p>We think this is even more true in this world, there is no reason why anyone, or us, that we need to know where you are buying something, what you're buying, how much you're paying, I don't want to know any of that. It's none of my business, frankly. And so, this is not how we want to make a living. We don't think you, in the long term, would want us to do this either, by the way. We think customers will rebel on this.</p>
+          <p>I think this is the same way &#x2013; back to the HealthKit that we talked about earlier. You're going to want to keep your own health information. This is not something you want to be monetized by somebody. And so we think that customers, over the arc of time, will more and more go to people they trust with their data, because it's not just sharing one thing that's going on now. It's the people unknowingly sharing a number of things in their lives, and where somebody can now connect those dots and find out ten things about them that they really didn't want anybody to know, that nobody deserves to know.</p>
+          <p>And so I do think over time, more and more people will appreciate that &#x2013; and not only just appreciate it, but demand it. And so for Apple Pay, for us, it was about doing something simple. We knew that it had to be easier than pulling out your wallet and taking out a card. There was nothing out there that was easier than that, so nothing had really taken off. We knew that it had to be secure, because all of us are tired of people breaching our credit cards and going online and having to re-put in all these numbers everywhere, I'm sure everyone in this room, or almost everyone in this room in the last year at least once, that's happened to. It's happened to me three times.</p>
+          <p>With Apple Pay we don't &#x2013; we never give the merchant your credit number. We don't even have it. We're essentially making up a proxy for each individual transaction which prevents the passage of this number, I mean think about it for a minute. How secure can a card be when it has your number on the front, and this thing called a security code that anybody can see the back? How secure is that?</p>
+          <p>[Audience laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And so, we knew it had to be secure and as I said before, we thought it had to be private, because we think that that's between you and your bank, and the merchant and we're not a party to it. We're facilitating the transaction. And so, I'm super excited. I think we have come up with something that people love to use. The guys are telling us, Panera Bread told us that 80% of their mobile transactions now in the store are on Apple Pay. And so, in the stores we're in, it's even higher than the average across the total, obviously because that includes stores that were zero and we're not accepted yet. And so, I couldn't be happier about the speed of it. I would never have predicted that I could be sitting at this conference in February, after launching in October, and we would be where we are now.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah. So it's been quite a success. So, phenomenal holiday quarter, driven by iPhone. On your earnings call, you talked about the latest iPhone lineup is winning over a lot of former Android customers. The success of iPhone 6 seems to fly in the face of the argument that Apple needs a low cost iPhone to grow and succeed, is that mantra sustainable?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>We've always believed that our role in life is to make the best, not the most. And sometimes, those spheres do intersect, where you can make the best and the most, and sometimes they don't. Last quarter, they probably intersected or came really close. I haven't seen the latest estimates. But first and foremost, our job in life is to make the best, and we've never lost sight of that. And so, what we've said is, we want to give people a good value. And if we can develop something that's really great, that costs even less than what we are offering today, which we think is really good value, then we would do that. But what we won't do is do something that's second rate or that's only a good product, not a great product, because that's not what Apple stands for, and that's not what we think customers want.</p>
+          <p>And we've found that all throughout the world, there were so many people advising us that we had to do something different in China, that we had to do something different in this country, that country, that people weren't going to pay for a great product there. Well, let me tell you, it's a bunch of bull, it's not true. People everywhere in this world want a great product.</p>
+          <p>And that doesn't mean that everyone, every single person in the world can afford one yet, but everyone wants one. And so if we do our jobs right and keep making great products, I think there is a pretty good business there for us. And so, we stayed true to that and sort of blocked out the noise of everybody saying, you've got to do this, you've got to that. We're pretty good at blocking the noise out.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Are you worried about Android competitors like Xiaomi or <mark type="ph" /> Owha (30:58) who are targeting the high end, where you've had so much success, as they try and move up market?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Our whole lives as a company, we've always fought against fierce competitors. In the PC world, it was the Microsoft monopoly. In the smartphone world, when went in, people thought that we had no chance against BlackBerry and Nokia. In the tablet world, it wasn't that there was a competitor there necessarily, but there were people questioning why are you doing this product. And same kind of thing with the iPod in a way and so, we've always had stiff competition. We always will have stiff competition, this makes us better, so no, I don't &#x2013; this is not what we lose sleep over, we think about doing a great product and we think if we do that well that other things will take care of themselves and so that's what we're focused on.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>China.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>70% revenue growth in China last quarter, which is impressive growth anywhere. What's been the key to your success in China?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>There's been several things, one is we put a lot of investment there. We've invested in a ton of people there. We've invested in stores there &#x2013; in flagship stores. We're rolling out more stores, we're now at 19 and in Greater China we're going to be at 40 by mid-next year. We've brought on 40,000 point of sales at our indirect channel partners. We've partnered with top Chinese companies like China Mobile and China Unicom and China Telecom. And great services companies like Baidu on search and Tencent and Youku. And so, we've done things with people that really understood China and had desirous services there. Maybe more than anything we've put our personal energy into it and tried to deeply understand the market and respect it and over time it began to work. Five years ago, we were at less than a $1 billion of revenue. In the last 12 months, we were at $38 billion.</p>
+          <p>And but, I still think that &#x2013; when I really back up from it, I think we're still kind of not too far from the surface. This &#x2013; that country has enormous opportunity, there are such an amazing number of people that are moving into the middle-class, it's something like I've never seen in my lifetime before. And so, we just put &#x2013; we opened four new stores in the last, the last few weeks. And these four stores are in cities that have about give or take 9 million people into the city, larger, much larger in the metropolitan area. And you think about 9 million people, this is the size of New York City in populations.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah. Small cities in China though.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Small cities in &#x2013; not Beijing and Shangai. Tianjin, Chongqing, Zhengzhou, Hangzhou, right? Places that most Americans have never heard of. I &#x2013; but they're huge. And the scale is still &#x2013; after travelling to China and studying China for now 30 years, it's still amazing to me. And so, that's the reason. But there are other countries though where we haven't put as much energy, don't understand as well, but on the flip side of that, we have enormous opportunity and India is one of those. We've started making investments in India. We're growing rapidly in India, but we're in a very small base there. But in some number of years you could envision India being really significant too and should be.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Yeah. Same dynamics...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Same dynamics.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>...same middle class, same wealth creation vehicles...</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Exactly.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>...same urbanization. So, you mentioned you went in China from $1 billion to $38 billion of revenue growth, obviously you're continuously generating enormous amount of cash flow. How do you think about your asset allocation model going forward? You've nearly completed your targeted return of $130 billion in cash to shareholders through repurchase and dividend so what's next?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, the way we look at this is, first and foremost, we invest in R&amp;D because we know that innovation is the most important thing for us. And investing in R&amp;D means both internal organic investment and acquisition. And so, last year we &#x2013; last calendar year, we acquired 17 companies and we're continuing to acquire where we find skills that are great and technologies that are great, et cetera. We'll continue doing that.</p>
+          <p>We also invest in our go-to-market with our retail stores and our supply chain. And of course the capital that we need to maintain a infrastructure that has operational excellence is not a trivial amount of money either and so, all of those things are first priority, investing in Apple.</p>
+          <p>We're fortunate right now when we do that, we had some amount of money left over.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>[Laughter]</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>And so, we realized this a few years ago and started returning it to shareholders. We started with dividends and buybacks and we've tweaked that model every year. We've been sort of on a cadence of once a year. We looked at it very deeply, very thoughtfully and we changed the program accordingly. And so, we're in the midst of that process right now and we'll be announcing in April on our earnings call, our &#x2013; what we will do next. And &#x2013; but, as you said, we announced $130 billion, which to put in perspective is the largest in corporate history. We're a $103 billion through that. And so &#x2013; and we're doing it at a much faster clip than we had announced. We were very bold and very opportunistic, and continue to be. And so, we'll see what we conclude in April, but by and large my view is, for cash that we don't need, with some level of buffer, we want to give back. And so, we're not &#x2013; it may come across that we are, but we're not hoarders, and I think &#x2013; I doubt anybody with $103 billion buyback would say that. So, we'll see where we go next.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Great. So earlier, you mentioned your recent partnership with IBM.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>How important is the partnership for Apple and IBM? What makes two titans, one in the enterprise tech and one in the consumer tech world, what makes this an interesting opportunity?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>It's interesting, I think, for both companies, and hopefully, Ginni wouldn't mind me saying something about IBM, is that, when you really look at it, the skills of the two companies are very complementary. And so, IBM has very deep knowledge of a number of verticals; Apple doesn't have that. IBM has an enormous amount of field resource; Apple doesn't have that. Apple has incredible devices that enterprises want to deploy; IBM doesn't have that. Apple has a operating system that you can write apps for easily, a programming language that helps do that, IBM doesn't have that and so, both of us bring a significant amount to this.</p>
+          <p>We want to change the way people work. This is what excites us. Just like we changed consumers' lives, we want to change the way people work. And so, when we started thinking about, how do we do this, how do we really do this? We came to the realization that we didn't know enough about n-number of verticals and we didn't have all these people on the street, and we didn't have huge numbers of engineers that could write apps that were unique to these. But we knew that we had to have apps that were at the job level within the enterprise. Not just productivity apps like a presentation app, which is very important in enterprise; we do one, Microsoft does one. You can pick a good one, whichever one you like best. We do a word processor; Microsoft does one. All of those kind of things exist. Those are general productivity tools.</p>
+          <p>But when you start talking about the tool for the nurse, the tool for the pilot, the tool for the flight attendant, the tool for the sales person...</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>The banker.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>The banker &#x2013; when you're down at that level, you need unique apps. And so, we knew we needed to partner with someone, and we looked around, and it became clear to us that IBM was an outstanding partner.</p>
+          <p>I think Ginni's fantastic, the relationship between the companies is quite good, the engineering teams work well together. And they're extremely complementary. And so, I couldn't be happier with how it's taken off right now. And I really think it's big. I don't think &#x2013; this is not a small thing, because the truth is, enterprise has not moved to mobility in a big way like the consumer has.</p>
+          <p>There are still so many people stuck to their desk in the enterprise, it's unbelievable when you really think about it. It's almost like the same thing that happens to kids where they go to school, and the school is in an analog world, and the kid is a digital kid, and they have to turn back in time, many businesses are like that. So, the person is living one way at home and then they're going into work and they are sort of turning back in time. Well, it doesn't have to be like that, and it shouldn't be like that. And so, I'm excited about it. I think it can be truly profound.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So, Tim, I know we're running short on time here, so I have two relatively quick questions.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So, I'm old enough, and maybe a few other people in this room are old enough, to remember the first Apple product they bought, and it wasn't an iPad and it wasn't an iPhone, it was a Mac. It could have been a clam, it could have been something like that, an iBook. It was a product that we all learned about Apple from. I think it's a product that is still near and dear to your heart.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>It's been completely overshadowed by iPhone and iBook for many years. What's the future of the Mac? It sort of fits in with what you were just talking about, is you want to build out products for the workplace as well.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Well, I think it has a bright future. Despite the industry shrinking, the Mac has gained share for a 10 year stripe. And &#x2013; but we are &#x2013; we've moved up to 7% share. And so it's not exactly like we're close to a ceiling despite having really good growth and in fact we've moved from about $5 billion in the early 2000s to $25 billion last year. So we're up five times in revenue in an industry that most people look at as left for dead kind of things and the reason is we're innovating like crazy in it.</p>
+          <p>We came out with the iMac last year with a 5k Retina Display. The world's first. Our notebooks have incredible battery life, they're thin and light, they're powerful, the OS is unbelievable. And so we're continuing to invest here and we think we've got a bright future.</p>
+          <p>We also did something really cool with features that we call continuity features where we know people live on multiple devices and we know people want to do things like start an email on your iPad and finish it on your Mac. We know people want to take calls on their Mac. And so we've tried very hard to stitch these things together seamlessly such that even though one has OS X and one has iOS, they work together as one and customers have really responded positively with this. And it's something that, frankly speaking, only Apple can do. We're the only company that has both a desktop operating system, a mainstream desktop operating system and a mainstream mobile operating system.</p>
+          <p>There is one company that has a mainstream mobile, the other company has a mainstream desktop, but nobody has both but us. And so we can look at this and give people an experience that's sort of a jaw-dropper and so we're going to continue to do that.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>So quick last question.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>Coming up on your four year anniversary as CEO, what are you most focused on looking forward for the next four years or for however long you're going to be at Apple?</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Most of my days are spent focused on people, strategy and execution and I think if you can get those right then everything else takes care of itself. And so with people we've brought on some brilliant people in the last year, Luca is our new CFO, he's fantastic; Angela Ahrendts came in to run retail and online. We had great talent join us from Beats like Jimmy Iovine, Jimmy is unbelievable. And so we've had a lot of talent influx and of course there's a lot more names that I &#x2013; we don't have time to talk about and of course the people at Apple are amazing.</p>
+          <p>Strategy for us is mostly about products and what categories we do and don't do and we spend a lot of time debating that because we know that we need to focus on few things and so we spend a lot of time there. And of course at a company operating in the billions of transactions a day and with the volumes we are, execution is critical. And so that's where I spend my time. And so far things have gone okay.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>It's working. So Tim just, because I have got this great iPad product in my lap.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>It multitasks for me, right, it's lots more than IM. So I get news feeds while I'm up here.</p>
+        </plist>
+      </speaker>
+      <speaker id="1" type="a">
+        <plist>
+          <p>Yeah.</p>
+        </plist>
+      </speaker>
+      <speaker id="2" type="q">
+        <plist>
+          <p>I got two really important news feeds while I'm up here. One from one news source that says Apple's market value closes above $700 billion for the first time. Second one, Apple becomes first U.S. company to close with a market cap over $700 billion. So, you'll remember exactly where you were, when you hit a $700 billion market cap. On behalf of all of us here and on behalf of Goldman Sachs, thank you very much for being here.</p>
+        </plist>
+      </speaker>
+      <speaker id="1">
+        <plist>
+          <p>Thank you, Gary. It's a pleasure. Thank you very much. Thank you. Thanks, guys.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>

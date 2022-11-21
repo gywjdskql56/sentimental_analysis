@@ -1,0 +1,521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transcript id="5798" product="CorrectedTranscript" xmlns="http://www.factset.com/callstreet/xmllayout/v0.1">
+  <meta>
+    <title>Q2 2003 Earnings Call</title>
+    <date>2003-04-16</date>
+    <companies>
+      <company>3</company>
+    </companies>
+    <participants>
+      <participant id="0" type="operator">Operator</participant>
+    </participants>
+  </meta>
+  <body>
+    <section name="MANAGEMENT DISCUSSION SECTION">
+      <speaker id="0">
+        <plist>
+          <p>I'd like to turn the call over to director of investor relations and corporate finance, Ms. Nancy Paxton. Please go ahead.</p>
+          <p>Nance Paxton: &lt;Safe Harbor Statement&gt;</p>
+          <p>Fred Anderson: Thank you, Nancy. We're very pleased to report that despite an increasingly challenging and unpredictable environment, Apple generated revenues of $1.475 billion in our second fiscal quarter. Net income was $14 million or $0.04 per diluted share. These GAAP results include a 3 million pre-tax charge related to previously announced restructuring activities. These results are consistent with our guidance of flat sequential revenues and a slight profit. Apple shipped a total of 711,000 CPU units during the quarter. A record 42% of units shipped were portables, boosted by the success of our new 12-inch and 17-inch PowerBooks. Though overall unit shipments were down 13%, higher average selling prices resulted in revenues that were about even with the year-ago quarter. Average revenue per system jumped above $2000, driven by a greater percentage of beyond the box sales, especially software and displays, as well as the richer mix of portables. Software sales in particular were boosted by the addition of Keynote, iLife, and Final Cut Express. We ended the quarter with less than 4.5 weeks of channel inventory, well within our target range. In terms of CPUs, we shipped 256,000 iMacs. Of that total, 41,000 were the classic CRT iMacs, 86,000 were E-macs, and 129,000 were flat panel iMacs. IBook sales were down slightly from the year-ago quarter due to some cannibalization by the new 12-inch PowerBook. Sales of PowerBooks surged to 166,000, driven by strong demand across the board for all 3 models. The 12-inch PowerBook, the smallest full-featured notebook on the market received very favorable reviews and was the most popular of the 3 PowerBook models with 82,000 units sold. The 15-inch G4 Titanium remained a very popular model with 70,000 units sold. And while bookings for the new 17-inch PowerBook were strong, shipments began later than we had anticipated, and we were only able to ship 14,000 units, ending the quarter with a substantial backlog. We are now through the manufacturing ramp and are quickly catching up with orders. Sales of Power Mac G4's continue to be sluggish despite price performance improvements during the quarter. Including servers, we shipped 156,000 units, which was sequentially flat but down 26% from the year-ago quarter. We believe the creative segment continues to be especially hard hit by the weak economy. We shipped a total of 78,000 iPods in the quarter, almost half of which were Windows units. Apple retail stores had a great quarter. We opened two stores early in the quarter, bringing the quarter-end total to 53 stores. Apple retail store revenues were $135 million, down seasonally from $148 million in the December quarter, as was expected. We achieved average revenue of 2.6 million per store during the quarter, flat with the year-ago quarter. The retail segment loss was $3 million. The manufacturing profit associated with the retail segment was 23 million, and this has been excluded from the segment results. Our traffic records indicate that over 3 million people visited our retail stores during the March quarter for an average of about 4400 visitors per store per week. And our most recent research indicates that about 50% of customers buying systems in our stores don't currently own a Macintosh. We are targeting to have about 70 stores open by the end of this calendar year. Included in the next wave of store openings will be our third large format store, which will be located on Michigan Avenue in Chicago. The U.S. education market continues to experience funding pressures as a result of the large budget deficits in many states. Our CPU unit sales through the U.S. education channel were down 14% from the year-ago quarter, but portable shipments in education remain a bright spot for us. In the March quarter, 39% of our education unit shipments were portables, well above IDC's U.S. Education segment average forecast of 21% for the March quarter. The X for Teachers program has been a great success. Since introduction of this program, we have put over 400,000 copies of Mac OS X in the hands of K-12 and higher education teachers. Turning now to gross margin, Apple's gross margin was up 70 basis points from the December quarter to 28.3%, primarily due to lower component costs and a stronger mix of portables and direct sales. Reported operating expenses were 422 million, including a 3 million pre-tax restructuring charge. Operating expense was slightly higher than our guidance due to the restructuring charge and stronger than expected foreign currency. Other income and expense was 23 million, about 3 million higher than our previous guidance, driven by higher than expected gains from sales of some available for sale investments. We are continuing to find it advantageous to close out and realize gains on some of our longer-term cash investments as we position our cash and investment portfolio toward shorter investment maturity. The effective tax rate was 28% consistent with guidance. Turning now to the balance sheet, cash was up $64 million sequentially to $4.526 billion. That represents a fiscal year-to-date increase of $189 million. We are very pleased with our working capital management, particularly receivables and inventory. Consistent with a greater mix of direct sales and strong collections, day sales outstanding improved to 30 days while inventory remained lean at 4 days. Looking ahead to the June quarter, I'd like to review our outlook, which includes the types of information that Nancy referred to in the safe harbor statement at the beginning of the call. We expect revenues to be approximately flat with the March quarter. We also expect gross margins and operating expenses to be relatively flat on a sequential basis. We expect other income and expense to decline significantly to about $15 million. And we expect the tax rate to continue to be 28%. As a result, we expect a slight profit for the June quarter. I'd like to close by saying that we are encouraged by the significant achievements we've made this quarter as we continue to innovate our way through these challenging economic times. We believe that our investment in research and development and our retail initiative will fuel future growth for the company. With that, I'd like to open the call to questions.</p>
+        </plist>
+      </speaker>
+    </section>
+    <section name="Q&amp;A">
+      <speaker id="0">
+        <plist>
+          <p>Our first question today comes from Michael Hillmeyer with Merrill Lynch. Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi there. Just wondering if the announcement that you guys made earlier this month about the stock options going over to restricted shares, is that included in your outlook going forward here?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, let me be clear. There was a restricted stock grant to Steve Jobs that was announced, and then separately, there was an exchange program for our employees who held options of $25 or higher, and both of those events have been contemplated in our guidance.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Dan Nile from Lehman Brothers.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi. Fred, if you could talk a little bit about in your business kind of what you saw during the quarter. In other words, did you guys see some impact from the war? Could you sense that just by looking at sort of your run rate of business and sort of how did it go going into it and then kind of coming out of it, and I guess just sort of a general linearity question around that.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Ok. As you might imagine, we're not able to separate the war impact from other geopolitical or economic impact. The only thing I can tell you is that we were very pleased that we met our guidance of flat sequential revenues. In fact, we were up 3 million from the prior quarter, and we delivered $0.04 in EPS, which obviously was $0.02 in our guidance, it was $0.02 higher than First Call consensus, and what I would say is that the consumer market on a relative basis remains the strongest for us. Because of the budget deficits in states like California and the impact that they're having on funding of technology for education, I would say education remains a tough market as well as the creative markets for us which are obviously impacted by, you know, creative businesses such as ad agencies and magazines being hard-hit during this economic downturn where there's been a cutback in advertising.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can I ask a follow-up? I mean, when you look at your mix of business, I guess, you know, obviously portables was increasing pretty rapidly. Could you give us what that mix was last quarter, and then is there some target or do you have some sense on how that goes? In other words, just trying to figure out, do you anticipate that sort of keeping on improving or have you sort of gone to, you know, sort of a steady state or where is that level?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah, as you know, 42% of our CPU units shipped during the quarter were portables, meaning the combination of the iBooks and the PowerBooks, and that was driven heavily in terms of the increase by the PowerBooks and the success of the new 12 and 17-inch models. My answer would be that, you know, Steve believes this is going to be the year of portables for Apple, and I think we have a much higher mix of portables than the rest of the industry. Where it ends, you know, in terms of its evolution, I'm not sure. Now, do you have what it was last year?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure, so in terms of the unit mix in the second quarter, iMac was 46%, PowerMac G4 was 26%, PowerBook was 11%, and iBook was 17% of units.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Great. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Ok, great.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take our next question today from Kevin McCarthy with Credit Suisse. Please go ahead sir.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>It's Kevin, thanks. Fred, can you just talk conceptually about your subscription plan in terms of music? Is it something you feel you can just license, or again, conceptually, do you feel this is something that Apple will spend capital actually on content, content of media properties of one form or another?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I don't have any comment on future products. I'm sorry.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>All right. Can I ask a follow-up?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can you talk a little bit about, again I'll frame it in kind of conceptual language, your process or strategy, there's been some speculation that, as you guys become increasingly frustrated with Motorola's lack of commitment to Power PC, that you would consider moving to an Intel design. Can you just talk in a conceptual framework? Is that something that you would consider at some point?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We have no comment, again, on future products or processor strategies. I'm sorry.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>You know, Fred, I'm running out of questions here. Can I ask one more then?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yeah. Hopefully something about the quarter.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Well, how many stores do you plan to open in the U.S., and will you take it international this year?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>As I indicated in the preamble, we're targeting 70 stores by the end of the calendar year.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Any international plans?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We have not announced any plans to open any stores internationally.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>All right, I'm exhausted. Thanks Fred.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes. Our next question comes from Rob Cihra with Fulcrum Partners.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, thanks very much. I wonder on the PowerMac, it seems like the momentum just doesn't want to improve there. I mean, you've added servers now, you refreshed or recently dropped prices and yet it still doesn't really want to move. You know, is there something fundamental here? I mean, obviously the positive stuff is all in the notebook side. Is there something fundamentally that you think can change that PowerMac cycle or is it simply weakness in the customer base or do you think it's just something that you guys are just more and more suited to notebooks, differentiated notebooks and desktops are just not...(multiple voices)?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I think it's a creative market weakness issue. We subscribe to independent research like TrendWatch(r) and, you know, all the data shows Apple with dominant market shares in the segments where we're focused on, you know, in the 60% to 80% range. They show that the business conditions are the worst that they've been. They survey every 6 months in the last 7 years, and clearly, they show that the overwhelming majority of people who are going to buy in the next 12 months are planning to buy Macs. And so what I really believe is that we've got to look for an upturn here in the economy that's going to cause our creative customers to stop deferring buying decisions, which are typically, you know, they buy probably every 2 to 3 years, and I think that they've just been deferring because of their own businesses being hard-hit. So that's part of it. The second thing is that it certainly would help for us to get Quark Express finally on the platform, hopefully sometime in the future here, native on Mac OS X, to be clear. And then finally, I think, you know, as the performance improves in our PowerMac line, you know, all those, the convergence of those factors will hopefully drive an upgrade cycle, and we think there's lots of pent-up demand there.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>The next one is from Richard Gardner with Smith Barney.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, Fred. This is actually Cynthia. Two quick questions. One was, what did TFT pricing do in the March quarter versus December and what are your expectations for June? And then the second question.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I didn't catch the first piece.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Sure. How did you see TFT pricing in the March quarter versus December, and what are your expectations for June? And then I had a follow up.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Ok. Peter, you want to take the one on TFT pricing?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. At the end of the quarter, we saw flat panel pricing begin to tighten. There's a clear trend for people to buy a flat panel displays versus CRTs, the trend going towards notebooks and desktops and use in panels by non-PC products. So as a result, we've seen pricing there stay flat and actually begin to trend up a little bit on some of the sizes.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. And then you guys rolled some significant price cuts on the PowerMac in late January. Did you see any type of response, or how was the linearity in the quarter in the PowerMac demand? I know you said it was disappointing, but did the significant price cuts at all help?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I would say that we saw some significant elasticity of demand with the major price cuts we made in our displays, which obviously are for the Power Mac. Do you want to add anything to that, Peter, in terms of the Power Mac line itself?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>No. I think sales just sustained at the general levels that we'd seen them.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Ok, great, thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll go to Rebecca Runkle with Morgan Stanley. Please go ahead.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you very much, the question is related too...</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Rebecca, could you speak up? I'm sorry. You're coming across faintly here. We can't hear you.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Can you hear me now?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We can. Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Sorry about that. Just a quick question on the U.S. education market. You were down 14%, you said, year on year. Give us some color in terms of what you think the overall market did, i.e., how did you fare in terms of market share? And there is a follow up.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Unfortunately we don't have any market share data yet, and yes, we were down year-over-year 14%, so I don't want to get into speculating what happened to market share. We'll certainly know when IDC publishes their market share information.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>And then as we look forward to the June quarter since it's such an important quarter for the education market, any color that you can provide in terms of what you're expecting and as far as normal seasonality or not, especially within the context of some of the current state and local government budgets that exist?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We're expecting a tough quarter, albeit that there will be some seasonal improvement as there always is, but on a year-over-year basis, we're planning some decline because of the tough market condition.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Particular to the state and local governments?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I'm speaking of education, yes.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>And then as, quickly, as it relates to retail stores, we were actually surprised, it didn't sound like you were, but we were actually surprised that retail was down just 9% quarter-to-quarter, just given all the demand that you saw in the December period and given the holiday, et cetera, so if you could provide any more color in terms of what you saw, if there were any particular trends, if you added additional programs. Anything that would help explain that, because I thought...</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>I'm sorry, could you clarify your 9% figure?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>I think you said you were 148 in the December quarter and you did 135 this past quarter?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>What are you taking, certain products?</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>No, just looking at retail.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Oh, our retail stores. I'm with you now. I thought you were talking about retail as meaning consumer market.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>No, no, just your retail stores. Sterling and I were both very impressed by the performance in the March quarter and I just wanted to follow up on that.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You know, basically what we're seeing is that, you know, that we continue, if you look at the secular trend line, you know, we continue to add stores and we continue to do extremely well with our retail store division, and as you commented in your observation, there wasn't a significant seasonal drop-off, you know, in our retail store business. The decline was very modest.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>But any perspective as to why, you only added two stores, so, I mean, any color that you can provide in terms of why that was the case so that we can try to get our arms around that performance, because I would have certainly expected it to be a much weaker number.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, if you look at the average stores open for the quarter, there was more of an increase probably than that. In other words, more than just going from 51 to 53 stores. So, I think, one of the things you should look at is that as I indicated in the preamble that we did an average revenue per store of 2.6 million in revenues for the March quarter, which was consistent with the prior-year performance. So one other thing that I might mention is that we do have one area that's doing extremely well and that's that we are having, as you probably know, on Tuesdays and Wednesdays these store nights at our retail stores where we invite in K-12 school districts, you know, and they have the parents, you know, observe the achievements of the teachers and students that are presented using our technology, and I think we're now up to where we've done over 200 of those to date, and so I think that the tie-in of our retail stores both to education and small business is probably helping them and they're doing that more than they were a year ago, when we were almost exclusively focused on the consumer market.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Yes, we'll take our next question from Howard Gleicher with Metropolitan West.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi, thanks. I'm a little confused. Can you just tell me, have you released, made any press releases today attributed to Steve Jobs regarding the rumors that are going around? I'm reading something that said that you did release a statement from Steve Jobs.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Yes, we did. And I'd be happy to read the press statement from Apple.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>"Apple has never made any offer to invest in or acquire a major music company. The press statements this morning attributed to Vivendi (NYSE: V), Board Member Claude Bebear are untrue as Mr. Bebear has confirmed in a later report," said Steve Jobs, Apple CEO "We will abide by Apple's policy of not commenting on rumors."</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. And can you then just sort of update us on your internal policy and goals with respect to the cash that you have at your company and it looks like you continue to generate even beyond working capital gains? Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, we still have an outstanding authorization from our board for stock, I think it's $283 million and bottom line is that, you know, we continue to conserve our cash and we haven't made any buybacks under that authorization since as I recall September of 2001, and so, you know, we're very focused as a company on conserving cash and you know, we're proud that we've been able to increase our cash in short-term investments by $189 million in the first half of this fiscal year and you know, from time to time, it's always possible that we will execute some buybacks under the remaining authorization.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Is there anything that you can share with us regarding policies for acquisitions? Obviously not commenting on the current rumors, but just general, generally what you might hope to accomplish by an acquisition of any kind?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You know, again, I don't want to comment, just like we don't comment on products in the future, I don't want to go into comments on acquisitions or investments other than to say from time to time, the company over the last several years has made small acquisitions of, particularly software companies, where we felt there was a strategic fit and that such an acquisition or investment could assist in the profitable growth of the company and enhance shareholder value.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Do you have any criteria regarding dilution on cash flow or dilution earnings per share or any financial-type metrics that you could share when you look at acquisitions?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>No. Obviously the first filter for any potential acquisition if we were to look at one would be, is there a strategic fit for the company and then the second one would be, would it create positive financial returns and enhance shareholder value for the company over the longer term.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Thanks a lot.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>You're welcome.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Our next question comes from Jonathan Geurkink with Ragen McKenzie.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hi. I have a couple questions. First, what was the percentage of online revenue in the quarter?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Do you want to give that, Peter?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. It was 46% of our revenue, which was up from 41% in the year-ago quarter.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thanks and then second question, there's some chatter out in the past couple weeks that you deauthorized a number of resellers as they refused to sign a new reseller agreement that came up due on March 31st. Saw today, I guess Dell (NASDAQ: DELL) and Frye's and a couple of others actually did, are no longer deauthorized and so are going to continue to sell your products. Do you have any comment there or help you can give us?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Peter, you want to take that one?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. As part of our regular renewal process with our authorized resellers, we invited our resellers to sign new agreements as of April 1st, 2003. Resellers who have not currently renewed made up less than 0.5% of our worldwide revenue in 2002 and since the contracts have recently expired, some contracts as you mentioned are being signed each day.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>So any change in the contract there, or who's coming back to the table, I guess?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We've signed with all of our significant channel partners.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>So no change to the contract terms?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>We don't want to get into discussing terms and conditions of our reseller contracts on a conference call.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Fair enough.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We'll take our next question from Rick Schutte of Access Capital.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>That's okay. I withdraw. Thanks.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Okay, could we have the next question please?</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>We are going to Bill Fearnley with Midwest Research.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Could you offer additional color on the Apple channel, particularly the store within the store initiatives and international, internationally?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. Peter, you want to take that?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Sure. Within the U.S., CompUSA continues to go very well. Beyond the box sales continue to increase and the customer experience has been strong. We're beginning to see the same results in Japan. We have approximately 75 people in resellers in Japan and that's one of the reasons why I think sales were up so nicely sequentially in Japan, as a result of that program.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>When you say there are 75 people in resellers in Japan, how many locations is that?</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>It's less than the 75. I don't have an exact number, but some of the, I think maybe in the 60s. We have several of the stores which are very large where we're putting more than 1 person.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Thank you.</p>
+        </plist>
+      </speaker>
+      <speaker id="0">
+        <plist>
+          <p>Next we'll take a question from Charles Wolf with Needham &amp; Company.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Hey, Fred. I found your guidance for the March quarter to be fairly aggressive given that it's typically down from December, and as I recall, June is typically down from March, yet you're guiding flat, so I was wondering what you see that I don't see.</p>
+        </plist>
+      </speaker>
+      <speaker type="a">
+        <plist>
+          <p>Well, I don't agree that normally we're down in the June quarter compared to the March quarter. And again, it will vary from year to year, but I would say generally, our December quarter is our strongest followed closely by the September quarter, even though in the last couple years, you can't just look at these, what I'm saying is the trends, because there've been other anomalies that have occurred that would change that. Then I would say the third strongest quarter would typically be the June quarter and the weakest quarter would be the March quarter. And why do I say that? Well, the strongest consumer quarter is typically the December quarter. The strongest education quarters are the June and the September quarters and basically the March quarter isn't strong typically for any of our businesses.</p>
+        </plist>
+      </speaker>
+      <speaker type="q">
+        <plist>
+          <p>Okay. Thanks.</p>
+        </plist>
+      </speaker>
+    </section>
+  </body>
+</transcript>
